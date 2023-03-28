@@ -1,0 +1,6 @@
+2023/03/26-12:18:03.488 fe3 Creating DB /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_docs.baptlabs.com_0.indexeddb.leveldb since it was missing.
+2023/03/26-12:18:03.495 fe3 Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_docs.baptlabs.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/26-12:18:20.994 fe4 Level-0 table #5: started
+2023/03/26-12:18:20.997 fe4 Level-0 table #5: 57040 bytes OK
+2023/03/26-12:18:20.999 fe4 Delete type=0 #3
+2023/03/26-12:18:20.999 fe4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

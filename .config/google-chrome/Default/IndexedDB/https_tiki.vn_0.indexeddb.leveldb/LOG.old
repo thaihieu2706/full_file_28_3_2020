@@ -1,0 +1,18 @@
+2023/02/27-21:09:19.974 529 Creating DB /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_tiki.vn_0.indexeddb.leveldb since it was missing.
+2023/02/27-21:09:19.986 529 Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_tiki.vn_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/27-21:09:20.993 ce9f Level-0 table #5: started
+2023/02/27-21:09:21.000 ce9f Level-0 table #5: 57918 bytes OK
+2023/02/27-21:09:21.005 ce9f Delete type=0 #3
+2023/02/27-21:09:21.005 ce9f Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/02/27-21:10:45.058 52a Level-0 table #7: started
+2023/02/27-21:10:45.066 52a Level-0 table #7: 31708 bytes OK
+2023/02/27-21:10:45.070 52a Delete type=0 #4
+2023/02/27-21:10:45.071 52a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/02/27-21:10:45.071 52a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x005\x003\x001\x003\x009\x009\x004\x002\x007\x009\x003\x006\x00:\x00w\x00e\x00b\x00:\x00a\x007\x00d\x005\x007\x007\x004\x003\x000\x005\x008\x002\x001\x00f\x001\x00a\x004\x00d\x000\x000\x000\x005' @ 1558 : 1
+2023/02/27-21:10:45.071 52a Compacting 1@1 + 1@2 files
+2023/02/27-21:10:45.080 52a Generated table #8@1: 478 keys, 48372 bytes
+2023/02/27-21:10:45.080 52a Compacted 1@1 + 1@2 files => 48372 bytes
+2023/02/27-21:10:45.085 52a compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/02/27-21:10:45.086 52a Delete type=2 #5
+2023/02/27-21:10:45.086 52a Delete type=2 #7
+2023/02/27-21:10:45.086 52a Manual compaction at level-1 from '\x00\x05\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x005\x003\x001\x003\x009\x009\x004\x002\x007\x009\x003\x006\x00:\x00w\x00e\x00b\x00:\x00a\x007\x00d\x005\x007\x007\x004\x003\x000\x005\x008\x002\x001\x00f\x001\x00a\x004\x00d\x000\x000\x000\x005' @ 1558 : 1 .. (end); will stop at (end)

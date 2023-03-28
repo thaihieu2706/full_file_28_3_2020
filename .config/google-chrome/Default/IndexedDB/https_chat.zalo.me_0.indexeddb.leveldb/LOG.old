@@ -1,0 +1,66 @@
+2023/03/28-22:11:27.448 3bf Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_chat.zalo.me_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/28-22:11:27.449 3bf Recovering log #263
+2023/03/28-22:11:27.492 3bf Reusing old log /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_chat.zalo.me_0.indexeddb.leveldb/000263.log 
+2023/03/28-22:11:37.878 3c0 Level-0 table #274: started
+2023/03/28-22:11:37.930 3c0 Level-0 table #274: 1095640 bytes OK
+2023/03/28-22:11:37.935 3c0 Delete type=0 #263
+2023/03/28-22:11:37.973 3c0 Compacting 1@1 + 7@2 files
+2023/03/28-22:11:38.072 3c0 Generated table #275@1: 27172 keys, 2173504 bytes
+2023/03/28-22:11:38.136 3c0 Generated table #276@1: 3776 keys, 2131825 bytes
+2023/03/28-22:11:38.192 3c0 Generated table #277@1: 28964 keys, 2176977 bytes
+2023/03/28-22:11:38.268 3c0 Generated table #278@1: 19424 keys, 2148121 bytes
+2023/03/28-22:11:38.387 3c0 Generated table #279@1: 89589 keys, 2239707 bytes
+2023/03/28-22:11:38.541 3c0 Generated table #280@1: 124468 keys, 2284070 bytes
+2023/03/28-22:11:38.623 3c0 Generated table #281@1: 45070 keys, 990858 bytes
+2023/03/28-22:11:38.623 3c0 Compacted 1@1 + 7@2 files => 14145062 bytes
+2023/03/28-22:11:38.629 3c0 compacted to: files[ 0 0 7 0 0 0 0 ]
+2023/03/28-22:11:38.629 3c0 Delete type=2 #268
+2023/03/28-22:11:38.629 3c0 Delete type=2 #266
+2023/03/28-22:11:38.629 3c0 Delete type=2 #270
+2023/03/28-22:11:38.629 3c0 Delete type=2 #267
+2023/03/28-22:11:38.629 3c0 Delete type=2 #265
+2023/03/28-22:11:38.629 3c0 Delete type=2 #271
+2023/03/28-22:11:38.629 3c0 Delete type=2 #274
+2023/03/28-22:11:38.629 3c0 Delete type=2 #269
+2023/03/28-22:11:41.782 3ca Level-0 table #283: started
+2023/03/28-22:11:41.836 3ca Level-0 table #283: 1180847 bytes OK
+2023/03/28-22:11:41.839 3ca Delete type=0 #273
+2023/03/28-22:11:42.047 3c0 Compacting 1@1 + 7@2 files
+2023/03/28-22:11:42.189 3c0 Generated table #284@1: 25436 keys, 2170436 bytes
+2023/03/28-22:11:42.250 3c0 Generated table #285@1: 3717 keys, 2130833 bytes
+2023/03/28-22:11:42.343 3c0 Generated table #286@1: 26043 keys, 2171483 bytes
+2023/03/28-22:11:42.421 3c0 Generated table #287@1: 22699 keys, 2154395 bytes
+2023/03/28-22:11:42.550 3c0 Generated table #288@1: 75884 keys, 2219682 bytes
+2023/03/28-22:11:42.723 3c0 Generated table #289@1: 122548 keys, 2284775 bytes
+2023/03/28-22:11:42.839 3c0 Generated table #290@1: 69517 keys, 1506262 bytes
+2023/03/28-22:11:42.839 3c0 Compacted 1@1 + 7@2 files => 14637866 bytes
+2023/03/28-22:11:42.843 3c0 compacted to: files[ 0 0 7 0 0 0 0 ]
+2023/03/28-22:26:28.334 3c0 Level-0 table #292: started
+2023/03/28-22:26:28.430 3c0 Level-0 table #292: 1259016 bytes OK
+2023/03/28-22:26:28.445 3c0 Delete type=0 #282
+2023/03/28-22:26:28.445 3c0 Delete type=2 #278
+2023/03/28-22:26:28.445 3c0 Delete type=2 #279
+2023/03/28-22:26:28.445 3c0 Delete type=2 #277
+2023/03/28-22:26:28.445 3c0 Delete type=2 #283
+2023/03/28-22:26:28.445 3c0 Delete type=2 #281
+2023/03/28-22:26:28.445 3c0 Delete type=2 #276
+2023/03/28-22:26:28.445 3c0 Delete type=2 #280
+2023/03/28-22:26:28.445 3c0 Delete type=2 #275
+2023/03/28-22:28:06.233 3c0 Compacting 1@1 + 7@2 files
+2023/03/28-22:28:06.334 3c0 Generated table #293@1: 25945 keys, 2168892 bytes
+2023/03/28-22:28:06.420 3c0 Generated table #294@1: 4186 keys, 2134723 bytes
+2023/03/28-22:28:06.499 3c0 Generated table #295@1: 24728 keys, 2170760 bytes
+2023/03/28-22:28:06.548 3c0 Generated table #296@1: 24332 keys, 2159299 bytes
+2023/03/28-22:28:06.608 3c0 Generated table #297@1: 71640 keys, 2213636 bytes
+2023/03/28-22:28:06.704 3c0 Generated table #298@1: 121181 keys, 2282870 bytes
+2023/03/28-22:28:06.779 3c0 Generated table #299@1: 77606 keys, 1661590 bytes
+2023/03/28-22:28:06.779 3c0 Compacted 1@1 + 7@2 files => 14791770 bytes
+2023/03/28-22:28:06.784 3c0 compacted to: files[ 0 0 7 0 0 0 0 ]
+2023/03/28-22:28:06.784 3c0 Delete type=2 #292
+2023/03/28-22:28:06.784 3c0 Delete type=2 #287
+2023/03/28-22:28:06.784 3c0 Delete type=2 #284
+2023/03/28-22:28:06.784 3c0 Delete type=2 #285
+2023/03/28-22:28:06.784 3c0 Delete type=2 #288
+2023/03/28-22:28:06.784 3c0 Delete type=2 #290
+2023/03/28-22:28:06.784 3c0 Delete type=2 #289
+2023/03/28-22:28:06.784 3c0 Delete type=2 #286

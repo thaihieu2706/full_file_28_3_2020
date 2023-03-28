@@ -1,0 +1,4 @@
+2023/03/28-12:54:50.332 412 Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/Site Characteristics Database/MANIFEST-000001
+2023/03/28-12:54:50.332 412 Recovering log #3
+2023/03/28-12:54:50.336 412 (ignoring error) /home/thaihieu/.config/google-chrome/Default/Site Characteristics Database/000003.log: dropping 7 bytes; Corruption: missing start of fragmented record(2)
+2023/03/28-12:54:50.338 412 Reusing old log /home/thaihieu/.config/google-chrome/Default/Site Characteristics Database/000003.log 

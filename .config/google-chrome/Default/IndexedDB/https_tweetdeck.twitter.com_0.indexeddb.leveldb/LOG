@@ -1,0 +1,7 @@
+2023/03/28-17:09:22.700 3f9 Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_tweetdeck.twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/28-17:09:22.701 3f9 Recovering log #3
+2023/03/28-17:09:22.703 3f9 Reusing old log /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_tweetdeck.twitter.com_0.indexeddb.leveldb/000003.log 
+2023/03/28-17:11:24.868 3fa Level-0 table #5: started
+2023/03/28-17:11:24.874 3fa Level-0 table #5: 10501 bytes OK
+2023/03/28-17:11:24.887 3fa Delete type=0 #3
+2023/03/28-17:11:24.888 3fa Manual compaction at level-0 from (begin) .. (end); will stop at (end)

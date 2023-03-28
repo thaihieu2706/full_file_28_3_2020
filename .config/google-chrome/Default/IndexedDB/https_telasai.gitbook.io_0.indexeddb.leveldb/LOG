@@ -1,0 +1,6 @@
+2023/03/26-21:19:18.394 3f6 Creating DB /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_telasai.gitbook.io_0.indexeddb.leveldb since it was missing.
+2023/03/26-21:19:18.407 3f6 Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_telasai.gitbook.io_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/26-21:19:53.254 3f7 Level-0 table #5: started
+2023/03/26-21:19:53.258 3f7 Level-0 table #5: 1767 bytes OK
+2023/03/26-21:19:53.271 3f7 Delete type=0 #3
+2023/03/26-21:19:53.272 3f7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

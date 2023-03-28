@@ -1,0 +1,18 @@
+2023/03/28-20:50:09.067 3 Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2023/03/28-20:50:09.068 3 Recovering log #1298
+2023/03/28-20:50:09.070 3 Reusing old log /home/thaihieu/.config/google-chrome/Default/Session Storage/001298.log 
+2023/03/28-21:08:29.934 5 Level-0 table #1302: started
+2023/03/28-21:08:29.945 5 Level-0 table #1302: 16816 bytes OK
+2023/03/28-21:08:29.951 5 Delete type=0 #1298
+2023/03/28-21:08:29.952 5 Compacting 4@0 + 1@1 files
+2023/03/28-21:08:29.997 5 Generated table #1303@0: 16506 keys, 379877 bytes
+2023/03/28-21:08:29.997 5 Compacted 4@0 + 1@1 files => 379877 bytes
+2023/03/28-21:08:30.000 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-21:08:30.005 5 Delete type=2 #1302
+2023/03/28-21:08:30.005 5 Delete type=2 #1297
+2023/03/28-21:08:30.006 5 Delete type=2 #1295
+2023/03/28-21:08:30.006 5 Delete type=2 #1293
+2023/03/28-21:08:30.007 5 Delete type=2 #1299
+2023/03/28-23:09:30.548 3 Level-0 table #1305: started
+2023/03/28-23:09:30.556 3 Level-0 table #1305: 21158 bytes OK
+2023/03/28-23:09:30.576 3 Delete type=0 #1301

@@ -1,0 +1,26 @@
+2023/03/25-17:03:15.209 3ae Creating DB /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_thaihieu2706-vigilant-system-jwx6rgrw7rv25vq7.github.dev_0.indexeddb.leveldb since it was missing.
+2023/03/25-17:03:15.214 3ae Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_thaihieu2706-vigilant-system-jwx6rgrw7rv25vq7.github.dev_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/25-17:03:19.939 3af Level-0 table #5: started
+2023/03/25-17:03:19.961 3af Level-0 table #5: 449477 bytes OK
+2023/03/25-17:03:19.967 3af Delete type=0 #3
+2023/03/25-17:03:26.272 3af Level-0 table #7: started
+2023/03/25-17:03:26.288 3af Level-0 table #7: 363115 bytes OK
+2023/03/25-17:03:26.291 3af Delete type=0 #4
+2023/03/25-17:03:34.470 3af Compacting 1@1 + 1@2 files
+2023/03/25-17:03:34.486 3af Generated table #8@1: 182 keys, 21111 bytes
+2023/03/25-17:03:34.486 3af Compacted 1@1 + 1@2 files => 21111 bytes
+2023/03/25-17:03:34.487 3af compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/25-17:03:34.488 3af Delete type=2 #5
+2023/03/25-17:03:34.488 3af Delete type=2 #7
+2023/03/25-17:06:24.228 3af Level-0 table #10: started
+2023/03/25-17:06:24.251 3af Level-0 table #10: 192425 bytes OK
+2023/03/25-17:06:24.257 3af Delete type=0 #6
+2023/03/25-17:06:24.259 3af Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/03/25-17:06:24.259 3af Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x013\x00w\x00o\x00r\x00k\x00b\x00e\x00n\x00c\x00h\x00.\x00v\x00i\x00e\x00w\x00.\x00e\x00x\x00t\x00e\x00n\x00s\x00i\x00o\x00n\x00.\x00g\x00i\x00t\x00h\x00u\x00b\x00-\x00p\x00u\x00l\x00l\x00-\x00r\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00.\x00s\x00t\x00a\x00t\x00e' @ 3168 : 1
+2023/03/25-17:06:24.259 3af Compacting 1@1 + 1@2 files
+2023/03/25-17:06:24.285 3af Generated table #11@1: 278 keys, 37617 bytes
+2023/03/25-17:06:24.285 3af Compacted 1@1 + 1@2 files => 37617 bytes
+2023/03/25-17:06:24.288 3af compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/25-17:06:24.289 3af Delete type=2 #10
+2023/03/25-17:06:24.290 3af Delete type=2 #8
+2023/03/25-17:06:24.291 3af Manual compaction at level-1 from '\x00\x03\x01\x02\x013\x00w\x00o\x00r\x00k\x00b\x00e\x00n\x00c\x00h\x00.\x00v\x00i\x00e\x00w\x00.\x00e\x00x\x00t\x00e\x00n\x00s\x00i\x00o\x00n\x00.\x00g\x00i\x00t\x00h\x00u\x00b\x00-\x00p\x00u\x00l\x00l\x00-\x00r\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00.\x00s\x00t\x00a\x00t\x00e' @ 3168 : 1 .. (end); will stop at (end)

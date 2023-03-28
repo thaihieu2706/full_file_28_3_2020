@@ -1,0 +1,330 @@
+{
+   "checksum": "dd53387797c683d130c85fb77c21b10e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13321892150013243",
+            "date_last_used": "13324468812165131",
+            "guid": "4f60adc5-e441-4a43-a3db-9a81b0274f19",
+            "id": "9",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13278338292040294",
+            "date_last_used": "13323963780598257",
+            "guid": "73c662d0-317a-4758-b22e-37e850a0633c",
+            "id": "11",
+            "name": "Cổng thông tin Đại học Duy Tân - Đà Nẵng - Việt Nam",
+            "type": "url",
+            "url": "https://mydtu.duytan.edu.vn/Signin.aspx"
+         }, {
+            "date_added": "13324208513649187",
+            "date_last_used": "13324464715306167",
+            "guid": "16cd03cd-b215-4a76-a6b3-58893dc8ae65",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(14) YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13305594207063121",
+            "date_last_used": "13323068609160404",
+            "guid": "7c41321f-94ea-4bf9-8377-c413bccce527",
+            "id": "14",
+            "name": "Blog | hackers-arise",
+            "type": "url",
+            "url": "https://www.hackers-arise.com/"
+         }, {
+            "date_added": "13321892151088741",
+            "date_last_used": "13324470097996179",
+            "guid": "018bdbc9-7f88-48c0-bd13-3d3262269bb4",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Translate",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13324218713191378",
+            "date_last_used": "13324218852557542",
+            "guid": "ac900919-37be-43c3-b1d5-7e44a6e4f9b3",
+            "id": "35",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Zefoy",
+            "type": "url",
+            "url": "https://zefoy.com/"
+         }, {
+            "date_added": "13324315747993669",
+            "date_last_used": "13324473090016830",
+            "guid": "60d51224-eee3-4dd7-b22e-5ef3e87b561a",
+            "id": "38",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CREW³ | The #1 operating system for web3 communities",
+            "type": "url",
+            "url": "https://crew3.xyz/c/telos/questboard/518bb2b3-5e56-4964-8808-db29c0a9c6f7"
+         }, {
+            "children": [ {
+               "date_added": "13324382854991031",
+               "date_last_used": "13324395035179128",
+               "guid": "9b6858c6-2aac-4379-85d7-e9e2b70c2cd0",
+               "id": "41",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(1) Create Multisender ''For Free'' | Mass Airdrop Any Tokens , ETH / BSC/ Polygon / FTM / AVAX networks - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=pquL39xay3g&ab_channel=TechAddict"
+            }, {
+               "date_added": "13324382863287790",
+               "date_last_used": "0",
+               "guid": "0ff96e03-da23-439f-814d-0b0098c89aab",
+               "id": "42",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Joey (@techaddict0x) / Twitter",
+               "type": "url",
+               "url": "https://twitter.com/techaddict0x"
+            }, {
+               "date_added": "13324382870958872",
+               "date_last_used": "0",
+               "guid": "75c73e55-881d-46dd-b9e9-9f5a064d1fc4",
+               "id": "43",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "techaddict0x (techaddict0x) / Repositories",
+               "type": "url",
+               "url": "https://github.com/techaddict0x?tab=repositories"
+            }, {
+               "date_added": "13324397793030026",
+               "date_last_used": "13324458266440882",
+               "guid": "6bbc9941-a5ac-44e5-abb0-e513189e34a9",
+               "id": "57",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "How to make an effective airdrop - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/results?search_query=How+to+make+an+effective+airdrop"
+            }, {
+               "date_added": "13324459482174560",
+               "date_last_used": "13324460333514287",
+               "guid": "d83db0ad-6cbf-432f-bd2e-7ee2e8e824d8",
+               "id": "59",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(4) Claim Free Airdrop AI FLOKI ~ 7 BNB on Trust Wallet - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=LfBushk5jGI"
+            }, {
+               "date_added": "13324473020973542",
+               "date_last_used": "13324473580130430",
+               "guid": "3f0b3f71-f9d1-4534-a2d1-205b489b8dfa",
+               "id": "65",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(7) Hướng Dẫn Làm Airdrop Nhiều Tài Khoản - Cách Săn Kèo Airdrop Uy Tín - Đầu Tư Crypto - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ilcn9uy5wRQ"
+            } ],
+            "date_added": "13324382842358342",
+            "date_last_used": "0",
+            "date_modified": "13324473020973542",
+            "guid": "b886012d-882f-4670-8de6-46470ddcb8bd",
+            "id": "40",
+            "name": "airdrop",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13324383002984852",
+               "date_last_used": "13324456501166678",
+               "guid": "81f46059-742a-43f6-b1ac-c4913deb3187",
+               "id": "48",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Airdroppable protocols - Defi Llama",
+               "type": "url",
+               "url": "https://defillama.com/airdrops"
+            }, {
+               "date_added": "13324383011911643",
+               "date_last_used": "0",
+               "guid": "b4ad7346-65f5-46f8-8b67-705c33fa3341",
+               "id": "49",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Airdrop Alert >> Earn crypto & join the best airdrops, giveaways and more",
+               "type": "url",
+               "url": "https://airdropalert.com/"
+            }, {
+               "date_added": "13324383017727643",
+               "date_last_used": "13324458252247178",
+               "guid": "9415a597-2f4a-43e2-b6a0-d1aeb644cdb4",
+               "id": "50",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Crypto Airdrops List March 2023 » Find free airdrops & bounties!",
+               "type": "url",
+               "url": "https://airdrops.io/"
+            }, {
+               "date_added": "13324469223988701",
+               "date_last_used": "0",
+               "guid": "47fb3b8b-778e-465d-95c1-8167dc776b02",
+               "id": "60",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "CoinMarketCap - AirdropsMob.com",
+               "type": "url",
+               "url": "https://www.airdropsmob.com/coinmarketcap/"
+            }, {
+               "date_added": "13324469329183582",
+               "date_last_used": "0",
+               "guid": "89de17ce-178e-4a44-bfe7-2dfddb511e77",
+               "id": "61",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(1) Airdrop King – Free Crypto Airdrops up to $100 | March 2023",
+               "type": "url",
+               "url": "https://airdropking.io/en/"
+            }, {
+               "date_added": "13324472092675407",
+               "date_last_used": "0",
+               "guid": "a33e782b-543e-499b-92d5-2ef07e40d866",
+               "id": "62",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "99Airdrops | The complete list of Crypto Airdrops, Forks and Giveaway",
+               "type": "url",
+               "url": "https://99airdrops.com/"
+            }, {
+               "date_added": "13324472368533349",
+               "date_last_used": "0",
+               "guid": "b3ffb395-52b1-41ed-890d-c0181531be3f",
+               "id": "63",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "airdroprating.io",
+               "type": "url",
+               "url": "https://www.airdroprating.io/airdrops/"
+            }, {
+               "date_added": "13324472457372414",
+               "date_last_used": "0",
+               "guid": "7f407b9d-f198-474a-b233-a95d06e193eb",
+               "id": "64",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Cryptocurrency Airdrops - Free Crypto Coins Giveaway | Airdrops.live",
+               "type": "url",
+               "url": "https://airdrops.live/"
+            } ],
+            "date_added": "13324382996973696",
+            "date_last_used": "0",
+            "date_modified": "13324472457372414",
+            "guid": "cc98542a-0af0-4439-b72e-93485b6d3671",
+            "id": "47",
+            "name": "Web Airdrop",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13324383116934271",
+               "date_last_used": "0",
+               "guid": "ee895211-d031-4c09-83bb-8ef576012c5d",
+               "id": "52",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Import Statement in Java - GeeksforGeeks",
+               "type": "url",
+               "url": "https://www.geeksforgeeks.org/import-statement-in-java/"
+            }, {
+               "date_added": "13324383122861841",
+               "date_last_used": "0",
+               "guid": "3558f4a4-3644-436d-ae8e-b2b19fd62927",
+               "id": "53",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Template Method in Java / Design Patterns",
+               "type": "url",
+               "url": "https://refactoring.guru/design-patterns/template-method/java/example"
+            }, {
+               "date_added": "13324383128879127",
+               "date_last_used": "0",
+               "guid": "d745b5cb-7768-4214-8fa2-a0fdcaccbc46",
+               "id": "54",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "java-02- features of java || Java Programming Tutorial - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Kah5w-PUD20&list=PL85ehvEuduVheOGFZEOlJ2JvsGMMecBSy&index=3&ab_channel=RapidTutor"
+            }, {
+               "date_added": "13324383132998748",
+               "date_last_used": "0",
+               "guid": "2b11babe-ee38-40cc-bbbf-e4ff249b31ed",
+               "id": "55",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(1) Have Fun with Python [01]: Cày view #Youtube với #Python (Học lập trình Python qua Fun Projects) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=XSQT9RBKoCs&ab_channel=TheBrownBox"
+            } ],
+            "date_added": "13324383110749466",
+            "date_last_used": "0",
+            "date_modified": "13324383132998748",
+            "guid": "15d0a035-e13d-4288-996b-72a3bcf4b56f",
+            "id": "51",
+            "name": "Java",
+            "type": "folder"
+         } ],
+         "date_added": "13321892145660198",
+         "date_last_used": "0",
+         "date_modified": "13324383110752376",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13321892145660204",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13321892145660206",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Cu0BCswBCIiBAhLFARI8CAISOAoGCgJibRABEDMaEgmAc1nR8vcFACGAc1nR8vcFADIYChYIAhHCyhzi8vcFABgAIQAAAAAAAAAAIACSAX0KNAoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJst4c4vL3BQARst4c4vL3BQApYvgc4vL3BQAKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgmACBTc8vcFABGACBTc8vcFACkC3Bzi8vcFADCAkdDgrf79AroBAggBEgAgASoYR1ZXNkFDL1RxdXY1SXFkK1VZS1RoUT09EuwBCEES5wEKHFR1WGlGd1VRQzRiZFpVdHpWcDdBdXhEMHFYMD0SZlo6QURxdEFad1BjR2ZpUStjVkt1WXoxZmE0dGVZdDM1OUc1K2V4aGVEN2ZSYzB1dWNKMDJpQmtNVS9TWGpGUHJUOWhVNGNod2x4RitsQWtyS3lYNUcwRyt1aHZGNDJ6a1VHZXc9PRgAIAIoAjDUm8/btf79AjiulJO+8jBAupSTvvIwShxxWittWkdGU1hZNTgveGpJeXZVT2hoOWlCazA9Wh8iHftmV2l0ZHFqRFlJbUhQVDdlQ2czdEZMYnhTQVE9ZTj5OTMS7AEIPxLnAQocVEhvZ0R2bEZ6Vlc1SmlZRDNCUHJZRUVCdEM4PRJmWjpBRHF0QVp3UGNHZmlRK2NWS3VZejFmYTR0ZVl0OU9xWFo1UHFNYm5jdE1CZllFOHp1Ui8vZFQwOWFwNDgzc0RVNDlrcXlwTXBtMUphQjJRaHZjOXh1aDluMGphN3ZjN1Q5Zz09GAAgASgBMMjrwaSz/v0COJar673yMECWq+u98jBKHGNFWW1GN1hkdkRTYmZDbGxzVUlkMGdyTWt0Yz1aHyId/U9teEVsbnhEbEhNNWNpWWFubUVBT29wRG1Gcz1lAAAAABLsAQg9EucBChxRakdRdEZZMWFGNkkyNnZ4cHl1anVDaUdQR2c9EmZaOkFEcXRBWndQY0dmaVErY1ZLdVl6MWZhNHRlWXQyci9vWVVXN0VVbTFjdjZwZEEzWXpuYmEzaWlyUFg0clZHNTNRSlVQMmc0bjVZU1NXZXQvUmtCaUxLRWZ6STNIMU90LzVRPT0YACACKAIwirim+6f+/QI4oOqxvPIwQKfqsbzyMEocVVpkdVgreUQ3UnJkaHoxQ2RxRFVhaUNVN1dJPVofIh32aFpqQVRNN0lTZnd5dEtNWFVQM3BrRGhQMnpRPWW6lq0dEuwBCEAS5wEKHDIzaXNidDNyTUI3ZmVsWUVpb2NSVGpzTmI4bz0SZlo6QURxdEFad1BjR2ZpUStjVkt1WXoxZmE0dGVZdE11YURXM01nbGpncEljSjVpVjU5eEpRVE1ROEJGR08wWEV0MG1MVU5IdEliTmo2aWFtS1BEcXBGaGlHa2xBRHdrS1R1enc9PRgAIAIoAjC7yevOs/79Ajic4fC98jBAoeHwvfIwShxhL2dvRlhFU2VIZjFPa1o2VW9UUk9oN2hCdXc9Wh8iHf5ldTM1VkRtSTVaOVQ5WTdLRFM1azk4RVgzSGc9ZZAvEnQS7AEIPBLnAQoceGh1NjZlaXlTcUFkeUNJNldrMXBJcGtXSHk4PRJmWjpBRHF0QVp3UGNHZmlRK2NWS3VZejFmYTR0ZVl0OWhNeEV0V0kzUTJpeHgrN081RytBUDJDR25Qei94VERMUWNBUmJPRHBDWWQxTHBVajFpZzNCRVVaZ2gvdHV2VjFneU1VUT09GAAgAigCMNPQkMmn/v0COLi0q7zyMEC9tKu88jBKHDRKTElleFZINGhHOUxoWTMrdDA0U2pHdW1PND1aHyId7XMvUUdJRnp3S0lzSTV4OG9EdnZaQVR6SCt5UT1l8XXIDBLsAQg7EucBChxCYS9wZUtNZ3dyNVRqaENYM3hmeFZhdk05VnM9EmZaOkFEcXRBWndQY0dmaVErY1ZLdVl6MWZhNHRlWXRLQllkYVZuUWNVVVpoelpUV01wU3ZRcjVvQTVzUmFxRkhqSnRuUmtUaEt3eElvdzg0a1hoemlXS09jdEc2bDRZQnZzV2VRPT0YACACKAIwl7X7o4P+/QI4vujYt/IwQMvo2LfyMEocc2RkejNuSTNCVzV0YnpCVnd2UCswcUJEbWVFPVofIh32eThLbi9xUkdxSURnYjRSbUZlQ2Z5U1BaNlJvPWU4+TkzEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFaeU5EVWloSVNHMUtwWUpJV0FabGp3OUs1TklYZFhydDdkcjhuaWs0NFRjczdybFBsYXQ0ZFlMRkF2cGxsRVdQQm00L3cyThgAIAAoADCWo/P4kbT9AjgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEvQBCA4S7wEKHGJGMEtyem8veUxYaG0vdWRsZGZxdWc0MTlCQT0SZlo6QURxdEFad1BjR2ZpUStjVkt1WXoxZmE0dGVZdEVJVk9CaDg4d29JNW9Rb0JmSGMyTGI1NmNwZkE1dk9zSmpzSUlYMWJEU0NQekVkUTA4ditTbmpIU25HaVMyNkRxSFhpZFE9PRgAIAAoADDuloD67M39AjjY5oOUrDBAzcO2ouwwShx6M0MraXI4SDBuS3o4Ukh1UThRdm5lUkNxdDA9WiciJf////8AAAAI7koyV3VwZnAzcit0MWJmdEtvd0Z5b3ZKSTUxOD1l83hRZxLsAQgqEucBChx6VWJ3YTQvKysrWS9MclVpRXlWd2srYzBxazA9EmZaOkFEcXRBWndQY0dmaVErY1ZLdVl6MWZhNHRlWXRTK3lYR2t6a1BWY1ZZcWUwVTRHRVpvaGdoZi9FVnJaS3RkV2p2QkEyVlFEcjUzTVdUdEQwVlZJY2hqMkxUVlFPQXI1N3VnPT0YACACKAIw3PG87OX7/QI4uK+Uk/IwQNevlJPyMEocVTRuY1ZUU2hJY01RbkpBeWZEbVhnakpFdFhNPVofIh2zL2x2ZUx1cktob0huTFZmWk5FMjdtTW1PNWpNPWUqlSWPEusBCAkS5gEKHE95TFZISlkzaXozalUyb0VWSllhcnJoVmQrQT0SZlo6QURxdEFad1BjR2ZpUStjVkt1WXoxZmE0dGVZdGZLdndKTS91RDEyaUVCWFNhRGVhM3g1UEl0Ry9iV01URVRIb2hRcnU0WDNhMTQ3Y1VZTTZaNGJFUW9tbGJlR1F0UWNTd1E9PRgAIAAoADDuloD67M39AjjDnb7dsS9AzcO2ouwwShxpa2dDMHpTclhYNmV6clhDaVAwNno3V0JYQkU9Wh4iHGlrUGtQTXd6ZXhLZkkxNFN1dG4rM1RsZ2s4QT1li6CM0RLrAQgpEuYBChxvQnE2Nnc0enE0bmNXUjE4MGd0Z2Z4eGIyajQ9EmZaOkFEcXRBWndQY0dmaVErY1ZLdVl6MWZhNHRlWXRubHVGVk9OOEFuN3dGY2tNYld0TmpjVmFMbWJ2REVWaDJMS2gxc0p2dnNYYkhuZ0pCNW12TUFVSGZrSnZ2QWlTaFB4WDF3PT0YACACKAIwxvfC6OX7/QI4z+6Tk/IwQNjuk5PyMEocRmFMT0o3d3k5VCtGcXYvMUl6OXVwWGJiQ1M0PVoeIhxnNjYxV245MDBWV3lJbHdJT0doaXd2c1IzdWs9ZTj5OTMS9AEILxLvAQocaDNRWTAvMnNMTlZBOWxrOXpOYnBKVHh6ekFRPRJmWjpBRHF0QVp3UGNHZmlRK2NWS3VZejFmYTR0ZVl0WXJrazJzOGhVR3lHZHMrVXNaNk5nTSt0cFBQODlPUTFEVnByTHFsQVdPc0YrTzRFUWVSUEVkY0RhNGlMWFcvMEE4NGwydz09GAAgASgBML/nm6zm+/0COO3DnJPyMEDtw5yT8jBKHEdBT2ladjdVRDZseWNtK21HVWtUay9FdzhIND1aJyIl/////wAAAAv9THpoVG4zTVdaN0pGS3FIMURnZlU4UXNHeXdBPWUAAAAAEuwBCDES5wEKHE1JYWFsNUkyMTR3YTlUc1RCTWh0b1R4WjQ3cz0SZlo6QURxdEFad1BjR2ZpUStjVkt1WXoxZmE0dGVZdE04aDEvUzNYbE9rZ05raVhwTlBnNFBYSStaK2UvQkZsL2grbXRNRVBzOW9NM2VpRU1JVHZlK085YURrMElISTRUZGlVY2c9PRgAIAIoAjDO5Kuz5vv9AjjIuJ2T8jBA0ridk/IwShxlRjdEb0hscFFOSTlabmdLWnV3TXNJQzNMNmc9Wh8iHbQvRDhNU2RlQVI5SHZQQkc0aFdQdXY0T05nVjA9ZeTCCtIS7AEIIhLnAQocSzdDNmwrU2V6ZWVqQTUrMEgwaFhUVGZ2WTVzPRJmWjpBRHF0QVp3UGNHZmlRK2NWS3VZejFmYTR0ZVl0eWVVWkFwK3d3aWFVVVFjbEgxdGVXVFhCaGlaMFBnRGZ5a2RmSjkwd0FFTDVDaWtoTzg0QzhBcnRWaXBhZUgxK1VBSUhoQT09GAAgAygDMJSS3avc9v0COPP0gsDxMECCiYPA8TBKHFdVdTZTdVQwR25DT3BhRGVFYVRra3FTc3RkUT1aHyId/WZNbUU5SC9Ed296TDBSQ1kxSGlxbXF6ejUwQT1lOPk5MxLrAQg0EuYBChxKR0pRdjdQUVVvMWVORjQ5WGpEaVVRcCtOMmM9EmZaOkFEcXRBWndQY0dmaVErY1ZLdVl6MWZhNHRlWXRuZ1pRaUQ4U3VFRkZQSHFZQXlYc3RkQURxN1loeVdvbnVET2Qwc1pXdXU4T3BIZktuNHBYMTJ3WE9ZaUhKa1BPSEFlWENnPT0YACACKAIwn5u15eb7/QI4ie2jk/IwQJDto5PyMEocK2xqOStTQzFMMm1IdlZtcm9pRGMxSDF1aFMwPVoeIhx2d3pOT3dUVkdkRFptTlZUVEExbVRBYjFRYUE9ZfglxwgSwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp3ZVo3VUhrSjRpOEl6S0NxTFQvZk1BSCtRNkVRUGlDL3BNT3NtWk04WFJoNlJzT01sMU04TnlvMHBWams1YVJnWVdlc2xrRFNTV0VtM2FTVStEc3BIMm02TE5Ldz09GAAgACgAMJaj8/iRtP0COABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAS7AEICxLnAQoccU0yOGVUWTJSNEVuTllaRU8yVjF0eDZla3VjPRJmWjpBRHF0QVp3UGNHZmlRK2NWS3VZejFmYTR0ZVl0d1Y3QlcvdXBzbFYxVHRVQzRTeW1URGJEcmFnb3ViYkh3TWl2VmdxRGEwR0xaeXVNUUE2Sm8wQ1NrUDlqR0RwRHU5K2UxQT09GAAgACgAMO6WgPrszf0COMniss/GL0DNw7ai7DBKHDhSVXBXSzc0djBHaFNDaHJpQS9rK2FiQi8xYz1aHyId+3ZjQURSaVRCVUlScThjS1BRWllOM2F4ZnJqaz1lmNekUxLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWncxbnNMU0RXRE1HSWVybjlKa3NqUnVUU0JEUTB3UjdpSFUxR0ZQRUdzVERldndiMHBCaWhCd3c3QjV3Y1Y1TmZ3cnk3MGdqU2ZxYXJlYnNGRHh3NUVUcElRVzF3PT0YACAAKAAwlqPz+JG0/QI4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABL0AQgjEu8BChxaZzdCTGVTaWJzbC9PWTFVbEFmZnFFVWx5OW89EmZaOkFEcXRBWndQY0dmaVErY1ZLdVl6MWZhNHRlWXRxL1hLSEliNVY3R1ZVbWIxS0NudWkyallCYXZrL2piOHJpaTFyaW0rTXJIb2RFaFk3RXBWQWZuSnBNdnlWWVZJTEtjRUFBPT0YACACKAIwu+H5qYL3/QI467jxxPEwQPi48cTxMEocZ0RVZGRTMkxpQStjd1U5N3V0Z1NENXpBTE9FPVonIiX/////AAAAC9wvUEFzYS90RkdEai84eG5rY0kyczluS0pmWEk9ZcsqR6sS7AEINxLnAQocYTNHbSs3VkQzM0ZzSktzUEhBWW5sTE9nTGpBPRJmWjpBRHF0QVp3UGNHZmlRK2NWS3VZejFmYTR0ZVl0ZUVLd1JWMi9IR0tNQ2pkWnJBZ0ZIU25Benhodk9ZSUN5bWdZQ0xlSGlpN1Q2SEtqVFk1TnhwSkNUNnBRRm8razZ3TVp0QT09GAAgAigCMOzkie3m+/0COMbqpJPyMEDP6qST8jBKHGdYVTRKTTZBNzJqQUdHMW9OQlFqOXRNWWxCdz1aHyId7nFYcW45R3hqMmtlOW1QajE0eUR5MklJemtuRT1lOPk5MxLsAQg5EucBChx4K3hYTU1lLzRYaC80OHZnbEZ4ekxxOXFEREE9EmZaOkFEcXRBWndQY0dmaVErY1ZLdVl6MWZhNHRlWXQyb0VVTnUwbVBDb2M3MGxNMEw4QmpBZm1XUVJERlR4cytMbXg2MGpoSXpNZ1hxZWFuNWQ0Si8ycmgxWkkwVVdocjlFMlp3PT0YACACKAIwu+Hnu538/QI4ic6jmvIwQJnOo5ryMEocZUdwL2pNNWFGWUUxNCs1REVpYzlyNU1sVFhzPVofIh3sN2p1MGJRU3lPSDVVREdkNWM0NEtmR2Q4Y1JBPWU4+TkzEuwBCCsS5wEKHE03T0IzMzBpL08ySGtjdU04NHd6c2lGcXR4cz0SZlo6QURxdEFad1BjR2ZpUStjVkt1WXoxZmE0dGVZdDNFRHArdEoxV2tZZDdmS2FuWWxqcmVzd211RXp6Q3lxZUd0SUh0eXF0ZnVtNnd1VXNLTHQ3M3lveHJDb1dXRjhYTlYrUnc9PRgAIAIoAjCkppHw5fv9Ajiv65ST8jBAtuuUk/IwShxWekt3cmF3ejRoN3llR1FjMGoyNUJuL1lBK2s9Wh8iHdlwdDUyUGVWTWs0ckFtZFlWMFVMZ3ArSk52RE09ZSjQ4akS9AEIKBLvAQocSFJhcEVFaGVISXFjZVlHRks0RFJnUndvZnJjPRJmWjpBRHF0QVp3UGNHZmlRK2NWS3VZejFmYTR0ZVl0TDlSZzlkS2M3TmNYTFFZSjJhdHkrSFNqRTVyMjI4WXhyWHkxUkN4TGlOOHhRVTgxOGdKWk9HOHpJb3oxbnZ0eDRqaXN1QT09GAAgASgBMKOWxuLl+/0COPaLk5PyMED2i5OT8jBKHHVrTWZTZEFybUhhMkpHMzZ4Y010U292SDQ1cz1aJyIl/////wAAAAv7NkQyYTAvbG5Ra1VhWW1zTFhuR1AxRW93aWVnPWUAAAAAEuwBCDYS5wEKHDdQUCtwUVVtZU1QTmRkSFk3K2IzSi8xcDVTQT0SZlo6QURxdEFad1BjR2ZpUStjVkt1WXoxZmE0dGVZdElDZ1lyZldEUjBSRTFnOGliU2ZaVW80LzJHTnZEMm9GUG1RWFY3SU8xUlduNVNmQ3FHa2tZa2R3MXpxOEdQTFI5K0R2SFE9PRgAIAIoAjD1qo/r5vv9AjiwyqST8jBAwcqkk/IwShwwN0dwU0l2a05WdzJaczNvODJ6VkZtdU4vc3M9Wh8iHd02S3ozVmRrdXV3TUJ3Z3pYelBrM0ZUR2FBVlE9ZTj5OTMS9AEIMxLvAQoceUd0WWk3ZitGbHVjS1ZjRTlTc0NwYytBNU1jPRJmWjpBRHF0QVp3UGNHZmlRK2NWS3VZejFmYTR0ZVl0Sk9oaVdTOWVGaXVpNmJJUjVEVEIrZDJQbkRjQmJwUjcvb29kM0Jjby9uMGMvR2p0UjFEekZUcEI0aWIyMS9SdzNmd1ptZz09GAAgASgBMPP/u+Lm+/0CON28o5PyMEDdvKOT8jBKHHdLQXRQSmFySzZkKzZMR2dudmJnUUJSMHdidz1aJyIl/////wAAAAv+aFFhak53OFRTR2xnNnlkd2FTK1A3aldDSmNVPWUAAAAAEvQBCCYS7wEKHG5zSE1QQy9mM2licXU1blpZcjExcHVFNjRmbz0SZlo6QURxdEFad1BjR2ZpUStjVkt1WXoxZmE0dGVZdEZJVThiY0JaWFdhNUFrYWlDeWVaVUNKTUx0SGJaZmc4ZlZCdnhIVzFlanVJdkRVSFk2eG5nc1IxSXg1OC8zT3FEczhtWlE9PRgAIAIoAjDYwN/o6/n9Ajia/ZPz8TBAuv2T8/EwShxBemtRQ2UzZ1pEMTdGWURSM0t6OThCUjVVNFE9WiciJf////8AAAAL92F3RGJFWHh6YVpHWGVVanExc1UyaDIyOXc0TT1lRXxdkxLsAQg1EucBChw4UjJTcWlVYWU2ZFo4THlQMVg4dHQzR2U3b0k9EmZaOkFEcXRBWndQY0dmaVErY1ZLdVl6MWZhNHRlWXRQZndqVTdidzNhbWc3TFZEb3hLblpyNFNPVjdPVU9sNWRYdzU3ZW5HbFliTGlKSnoxNW8rOEFFeC9LQjh2QldiVnlUbGhRPT0YACACKAIwnZmh6Ob7/QI4rpukk/IwQLCbpJPyMEocZUh0MnA4U2MvK01hSVpXd3JkeDArMTc1b3NNPVofIh27aDdEYWxtcGdQOVRCT3dTSGlrUXlsbjZhRGY0PWXhWH0VEuwBCD4S5wEKHDJVeU5NMzI4ZjIwVVBSbHhDRmtkMDlhVWpKMD0SZlo6QURxdEFad1BjR2ZpUStjVkt1WXoxZmE0dGVZdHM2VFVubDZRQTdGZW5rNVFZWnlDdFJwQ3liQy9SOEY4amtMOXpZblFaam0yQVJwbmFpcGJaZDBjeFZUNU9YdFYrR3RTeGc9PRgAIAIoAjD8yP6gsv79AjiEwNq98jBAi8DavfIwShxNQXNvNDY4OTJTdVBIaXZmZU5nbVh4RHVIbnM9Wh8iHftTQ0o0eHhJNWwwZ2lDeXBlcmRudnRYUzBFeGc9ZbJVJ54S7AEIMhLnAQocUElXaStuN1BINkJmZ2ozWURWS3FIRFJUY0UwPRJmWjpBRHF0QVp3UGNHZmlRK2NWS3VZejFmYTR0ZVl0NkRhMmFRQS9LUjh0Q3VPK080SytTWG0xTGlPUy9XOXB4WjZ3Y1pwTXU2clVoeklRb3NaS3VRdFZIUHFuKzIzZ2g0ckxwdz09GAAgAigCMMeKj7bm+/0COIDmnZPyMECJ5p2T8jBKHHhkWFhES2ZXRE1Sb3hHSjJtRGpkWU0wU1U1WT1aHyId2k5HSWpWY1orRFp4b2xBbHF3L0ViZmhNZnludz1l7FjpVBLrAQgwEuYBChwvTDdrZUVLaUFRdVdIeFhkOEthdk04QU5RaDQ9EmZaOkFEcXRBWndQY0dmaVErY1ZLdVl6MWZhNHRlWXRMMWp6QThONE9yL04xL3ZBQ1NOVVdiOHZlT3RRbVNGL2J6b1JhaU9JTk4rcnpkWjVRcHIrQ3ZQbzI2R0Y0cHduQzZWSUt3PT0YACACKAIw8JWLr+b7/QI46fKck/IwQPPynJPyMEocb044aFNIOG1vMkZhaXdKNGtTcVZPeHRWdmE4PVoeIhxoMkZ5SHZsOFBpdW1qdTRJaEswZFo0WHhJalE9ZZN/X4QS9AEIFBLvAQoccE9MeGpQMmxWdlVCZzVKWW5wQndYNGhwVjlzPRJmWjpBRHF0QVp3UGNHZmlRK2NWS3VZejFmYTR0ZVl0eEFvZzQ2Z05VT2R4NlhnOFZ2NUVnVlpmb2pNY1pyMm5XcWVjanJzY2VsSjlGdWoxZ2cxMmpIVXF2WjlvVDdoOXhVMldGdz09GAAgACgAMPfP+qCns/0COMe/19DoMEDHv9fQ6DBKHEowZzJRSlhPUndnbysxUjFERWRFV1BIS1Jraz1aJyIl/////wAAAArucFhIbmNJd3pOTjBtWGVMd3lsbU9ZNUZCeFNzPWXFz5ABMAE4AA==",
+   "version": 1
+}

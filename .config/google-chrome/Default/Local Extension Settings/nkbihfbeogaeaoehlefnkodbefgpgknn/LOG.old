@@ -1,0 +1,444 @@
+2023/03/28-12:54:55.529 3f9 Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn/MANIFEST-000001
+2023/03/28-12:54:55.533 3f9 Recovering log #747
+2023/03/28-12:54:55.579 3f9 Reusing old log /home/thaihieu/.config/google-chrome/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn/000747.log 
+2023/03/28-12:54:59.900 3fa Level-0 table #751: started
+2023/03/28-12:55:00.054 3fa Level-0 table #751: 2381154 bytes OK
+2023/03/28-12:55:00.061 3fa Delete type=0 #747
+2023/03/28-12:55:27.270 3fa Level-0 table #753: started
+2023/03/28-12:55:27.541 3fa Level-0 table #753: 2383727 bytes OK
+2023/03/28-12:55:27.553 3fa Delete type=0 #750
+2023/03/28-12:55:27.555 3fa Compacting 4@0 + 1@1 files
+2023/03/28-12:55:28.244 3fa Generated table #754@0: 1 keys, 596057 bytes
+2023/03/28-12:55:28.244 3fa Compacted 4@0 + 1@1 files => 596057 bytes
+2023/03/28-12:55:28.249 3fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-12:55:28.252 3fa Delete type=2 #751
+2023/03/28-12:55:28.252 3fa Delete type=2 #746
+2023/03/28-12:55:28.252 3fa Delete type=2 #753
+2023/03/28-12:55:28.252 3fa Delete type=2 #748
+2023/03/28-12:55:28.252 3fa Delete type=2 #744
+2023/03/28-12:57:44.678 3fa Level-0 table #756: started
+2023/03/28-12:57:44.732 3fa Level-0 table #756: 2384347 bytes OK
+2023/03/28-12:57:44.735 3fa Delete type=0 #752
+2023/03/28-12:58:54.969 3fa Level-0 table #758: started
+2023/03/28-12:58:55.018 3fa Level-0 table #758: 2384748 bytes OK
+2023/03/28-12:58:55.021 3fa Delete type=0 #755
+2023/03/28-12:59:13.908 3fa Level-0 table #760: started
+2023/03/28-12:59:13.962 3fa Level-0 table #760: 2385278 bytes OK
+2023/03/28-12:59:13.967 3fa Delete type=0 #757
+2023/03/28-13:00:39.696 413 Level-0 table #762: started
+2023/03/28-13:00:39.730 413 Level-0 table #762: 2386547 bytes OK
+2023/03/28-13:00:39.734 413 Delete type=0 #759
+2023/03/28-13:00:39.735 413 Compacting 4@0 + 1@1 files
+2023/03/28-13:00:39.778 413 Generated table #763@0: 1 keys, 596720 bytes
+2023/03/28-13:00:39.778 413 Compacted 4@0 + 1@1 files => 596720 bytes
+2023/03/28-13:00:39.780 413 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-13:00:39.780 413 Delete type=2 #758
+2023/03/28-13:00:39.780 413 Delete type=2 #760
+2023/03/28-13:00:39.780 413 Delete type=2 #756
+2023/03/28-13:00:39.780 413 Delete type=2 #762
+2023/03/28-13:00:39.780 413 Delete type=2 #754
+2023/03/28-13:00:50.395 3fa Level-0 table #765: started
+2023/03/28-13:00:50.425 3fa Level-0 table #765: 2387227 bytes OK
+2023/03/28-13:00:50.429 3fa Delete type=0 #761
+2023/03/28-13:01:34.551 3fa Level-0 table #767: started
+2023/03/28-13:01:34.604 3fa Level-0 table #767: 2387538 bytes OK
+2023/03/28-13:01:34.609 3fa Delete type=0 #764
+2023/03/28-13:08:49.738 3fa Level-0 table #769: started
+2023/03/28-13:08:49.785 3fa Level-0 table #769: 2387761 bytes OK
+2023/03/28-13:08:49.789 3fa Delete type=0 #766
+2023/03/28-13:14:25.951 3fa Level-0 table #771: started
+2023/03/28-13:14:25.991 3fa Level-0 table #771: 2388873 bytes OK
+2023/03/28-13:14:25.997 3fa Delete type=0 #768
+2023/03/28-13:14:26.000 3fa Compacting 4@0 + 1@1 files
+2023/03/28-13:14:26.144 3fa Generated table #772@0: 1 keys, 597743 bytes
+2023/03/28-13:14:26.144 3fa Compacted 4@0 + 1@1 files => 597743 bytes
+2023/03/28-13:14:26.148 3fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-13:14:26.148 3fa Delete type=2 #769
+2023/03/28-13:14:26.148 3fa Delete type=2 #767
+2023/03/28-13:14:26.148 3fa Delete type=2 #771
+2023/03/28-13:14:26.148 3fa Delete type=2 #765
+2023/03/28-13:14:26.148 3fa Delete type=2 #763
+2023/03/28-13:14:54.249 3fa Level-0 table #774: started
+2023/03/28-13:14:54.292 3fa Level-0 table #774: 2389885 bytes OK
+2023/03/28-13:14:54.306 3fa Delete type=0 #770
+2023/03/28-13:15:17.037 3fa Level-0 table #776: started
+2023/03/28-13:15:17.075 3fa Level-0 table #776: 2389750 bytes OK
+2023/03/28-13:15:17.080 3fa Delete type=0 #773
+2023/03/28-13:15:42.242 3fa Level-0 table #778: started
+2023/03/28-13:15:42.278 3fa Level-0 table #778: 2390307 bytes OK
+2023/03/28-13:15:42.284 3fa Delete type=0 #775
+2023/03/28-13:17:34.435 3fa Level-0 table #780: started
+2023/03/28-13:17:34.478 3fa Level-0 table #780: 2389912 bytes OK
+2023/03/28-13:17:34.483 3fa Delete type=0 #777
+2023/03/28-13:17:34.484 3fa Compacting 4@0 + 1@1 files
+2023/03/28-13:17:34.527 3fa Generated table #781@0: 1 keys, 597724 bytes
+2023/03/28-13:17:34.527 3fa Compacted 4@0 + 1@1 files => 597724 bytes
+2023/03/28-13:17:34.531 3fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-13:17:34.531 3fa Delete type=2 #774
+2023/03/28-13:17:34.531 3fa Delete type=2 #780
+2023/03/28-13:17:34.531 3fa Delete type=2 #772
+2023/03/28-13:17:34.531 3fa Delete type=2 #778
+2023/03/28-13:17:34.531 3fa Delete type=2 #776
+2023/03/28-13:18:30.084 3fa Level-0 table #783: started
+2023/03/28-13:18:30.122 3fa Level-0 table #783: 2389615 bytes OK
+2023/03/28-13:18:30.128 3fa Delete type=0 #779
+2023/03/28-13:20:25.567 3fa Level-0 table #785: started
+2023/03/28-13:20:25.641 3fa Level-0 table #785: 2389860 bytes OK
+2023/03/28-13:20:25.649 3fa Delete type=0 #782
+2023/03/28-13:20:48.988 3fa Level-0 table #787: started
+2023/03/28-13:20:49.039 3fa Level-0 table #787: 2402211 bytes OK
+2023/03/28-13:20:49.046 3fa Delete type=0 #784
+2023/03/28-13:21:11.543 3fa Level-0 table #789: started
+2023/03/28-13:21:11.614 3fa Level-0 table #789: 2401912 bytes OK
+2023/03/28-13:21:11.619 3fa Delete type=0 #786
+2023/03/28-13:21:11.620 3fa Compacting 4@0 + 1@1 files
+2023/03/28-13:21:11.684 3fa Generated table #790@0: 1 keys, 600530 bytes
+2023/03/28-13:21:11.684 3fa Compacted 4@0 + 1@1 files => 600530 bytes
+2023/03/28-13:21:11.687 3fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-13:21:11.687 3fa Delete type=2 #783
+2023/03/28-13:21:11.687 3fa Delete type=2 #781
+2023/03/28-13:21:11.687 3fa Delete type=2 #787
+2023/03/28-13:21:11.687 3fa Delete type=2 #785
+2023/03/28-13:21:11.687 3fa Delete type=2 #789
+2023/03/28-13:21:40.953 3fa Level-0 table #792: started
+2023/03/28-13:21:41.003 3fa Level-0 table #792: 2391408 bytes OK
+2023/03/28-13:21:41.008 3fa Delete type=0 #788
+2023/03/28-13:24:19.711 3fa Level-0 table #794: started
+2023/03/28-13:24:19.748 3fa Level-0 table #794: 2391148 bytes OK
+2023/03/28-13:24:19.752 3fa Delete type=0 #791
+2023/03/28-13:27:26.465 3fa Level-0 table #796: started
+2023/03/28-13:27:26.545 3fa Level-0 table #796: 2391807 bytes OK
+2023/03/28-13:27:26.552 3fa Delete type=0 #793
+2023/03/28-13:28:00.513 3fa Level-0 table #798: started
+2023/03/28-13:28:00.565 3fa Level-0 table #798: 2394905 bytes OK
+2023/03/28-13:28:00.569 3fa Delete type=0 #795
+2023/03/28-13:28:00.570 3fa Compacting 4@0 + 1@1 files
+2023/03/28-13:28:00.679 3fa Generated table #799@0: 1 keys, 597838 bytes
+2023/03/28-13:28:00.679 3fa Compacted 4@0 + 1@1 files => 597838 bytes
+2023/03/28-13:28:00.690 3fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-13:28:00.691 3fa Delete type=2 #798
+2023/03/28-13:28:00.691 3fa Delete type=2 #796
+2023/03/28-13:28:00.691 3fa Delete type=2 #794
+2023/03/28-13:28:00.691 3fa Delete type=2 #790
+2023/03/28-13:28:00.691 3fa Delete type=2 #792
+2023/03/28-13:28:06.964 3fa Level-0 table #801: started
+2023/03/28-13:28:07.002 3fa Level-0 table #801: 2395309 bytes OK
+2023/03/28-13:28:07.009 3fa Delete type=0 #797
+2023/03/28-13:29:08.312 3fa Level-0 table #803: started
+2023/03/28-13:29:08.341 3fa Level-0 table #803: 2396915 bytes OK
+2023/03/28-13:29:08.345 3fa Delete type=0 #800
+2023/03/28-13:33:56.331 3fa Level-0 table #805: started
+2023/03/28-13:33:56.387 3fa Level-0 table #805: 2401614 bytes OK
+2023/03/28-13:33:56.390 3fa Delete type=0 #802
+2023/03/28-13:37:24.316 3fa Level-0 table #807: started
+2023/03/28-13:37:24.347 3fa Level-0 table #807: 2406096 bytes OK
+2023/03/28-13:37:24.351 3fa Delete type=0 #804
+2023/03/28-13:37:24.352 3fa Compacting 4@0 + 1@1 files
+2023/03/28-13:37:24.392 3fa Generated table #808@0: 1 keys, 601363 bytes
+2023/03/28-13:37:24.392 3fa Compacted 4@0 + 1@1 files => 601363 bytes
+2023/03/28-13:37:24.395 3fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-13:37:24.395 3fa Delete type=2 #807
+2023/03/28-13:37:24.395 3fa Delete type=2 #801
+2023/03/28-13:37:24.395 3fa Delete type=2 #803
+2023/03/28-13:37:24.395 3fa Delete type=2 #799
+2023/03/28-13:37:24.395 3fa Delete type=2 #805
+2023/03/28-13:37:45.797 3fa Level-0 table #810: started
+2023/03/28-13:37:45.827 3fa Level-0 table #810: 2405204 bytes OK
+2023/03/28-13:37:45.831 3fa Delete type=0 #806
+2023/03/28-13:38:14.392 3fa Level-0 table #812: started
+2023/03/28-13:38:14.423 3fa Level-0 table #812: 2405304 bytes OK
+2023/03/28-13:38:14.426 3fa Delete type=0 #809
+2023/03/28-13:39:03.225 3fa Level-0 table #814: started
+2023/03/28-13:39:03.264 3fa Level-0 table #814: 2405298 bytes OK
+2023/03/28-13:39:03.267 3fa Delete type=0 #811
+2023/03/28-13:39:24.345 3fa Level-0 table #816: started
+2023/03/28-13:39:24.374 3fa Level-0 table #816: 2405104 bytes OK
+2023/03/28-13:39:24.378 3fa Delete type=0 #813
+2023/03/28-13:39:24.379 3fa Compacting 4@0 + 1@1 files
+2023/03/28-13:39:24.419 3fa Generated table #817@0: 1 keys, 601364 bytes
+2023/03/28-13:39:24.419 3fa Compacted 4@0 + 1@1 files => 601364 bytes
+2023/03/28-13:39:24.421 3fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-13:39:24.422 3fa Delete type=2 #808
+2023/03/28-13:39:24.422 3fa Delete type=2 #814
+2023/03/28-13:39:24.422 3fa Delete type=2 #810
+2023/03/28-13:39:24.422 3fa Delete type=2 #816
+2023/03/28-13:39:24.422 3fa Delete type=2 #812
+2023/03/28-13:39:41.348 3fa Level-0 table #819: started
+2023/03/28-13:39:41.403 3fa Level-0 table #819: 2399802 bytes OK
+2023/03/28-13:39:41.407 3fa Delete type=0 #815
+2023/03/28-13:40:52.993 3fa Level-0 table #821: started
+2023/03/28-13:40:53.044 3fa Level-0 table #821: 2397535 bytes OK
+2023/03/28-13:40:53.048 3fa Delete type=0 #818
+2023/03/28-13:43:13.461 3fa Level-0 table #823: started
+2023/03/28-13:43:13.491 3fa Level-0 table #823: 2398009 bytes OK
+2023/03/28-13:43:13.495 3fa Delete type=0 #820
+2023/03/28-13:43:41.029 3fa Level-0 table #825: started
+2023/03/28-13:43:41.087 3fa Level-0 table #825: 2399336 bytes OK
+2023/03/28-13:43:41.089 3fa Delete type=0 #822
+2023/03/28-13:43:41.090 3fa Compacting 4@0 + 1@1 files
+2023/03/28-13:43:41.182 3fa Generated table #826@0: 1 keys, 600165 bytes
+2023/03/28-13:43:41.182 3fa Compacted 4@0 + 1@1 files => 600165 bytes
+2023/03/28-13:43:41.185 3fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-13:43:41.185 3fa Delete type=2 #817
+2023/03/28-13:43:41.185 3fa Delete type=2 #821
+2023/03/28-13:43:41.185 3fa Delete type=2 #825
+2023/03/28-13:43:41.185 3fa Delete type=2 #823
+2023/03/28-13:43:41.185 3fa Delete type=2 #819
+2023/03/28-13:49:27.084 3fa Level-0 table #828: started
+2023/03/28-13:49:27.135 3fa Level-0 table #828: 2400076 bytes OK
+2023/03/28-13:49:27.141 3fa Delete type=0 #824
+2023/03/28-13:54:44.670 3fa Level-0 table #830: started
+2023/03/28-13:54:44.705 3fa Level-0 table #830: 2399497 bytes OK
+2023/03/28-13:54:44.718 3fa Delete type=0 #827
+2023/03/28-14:08:24.174 3fa Level-0 table #832: started
+2023/03/28-14:08:24.222 3fa Level-0 table #832: 2400110 bytes OK
+2023/03/28-14:08:24.226 3fa Delete type=0 #829
+2023/03/28-14:11:12.403 3fa Level-0 table #834: started
+2023/03/28-14:11:12.446 3fa Level-0 table #834: 2403036 bytes OK
+2023/03/28-14:11:12.452 3fa Delete type=0 #831
+2023/03/28-14:11:12.453 3fa Compacting 4@0 + 1@1 files
+2023/03/28-14:11:12.520 3fa Generated table #835@0: 1 keys, 601634 bytes
+2023/03/28-14:11:12.520 3fa Compacted 4@0 + 1@1 files => 601634 bytes
+2023/03/28-14:11:12.525 3fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-14:11:12.525 3fa Delete type=2 #832
+2023/03/28-14:11:12.525 3fa Delete type=2 #828
+2023/03/28-14:11:12.525 3fa Delete type=2 #826
+2023/03/28-14:11:12.525 3fa Delete type=2 #830
+2023/03/28-14:11:12.525 3fa Delete type=2 #834
+2023/03/28-14:26:17.154 3fa Level-0 table #837: started
+2023/03/28-14:26:17.228 3fa Level-0 table #837: 2403582 bytes OK
+2023/03/28-14:26:17.241 3fa Delete type=0 #833
+2023/03/28-14:38:35.628 3fa Level-0 table #839: started
+2023/03/28-14:38:35.670 3fa Level-0 table #839: 2402765 bytes OK
+2023/03/28-14:38:35.674 3fa Delete type=0 #836
+2023/03/28-15:07:31.634 3fa Level-0 table #841: started
+2023/03/28-15:07:31.724 3fa Level-0 table #841: 2403208 bytes OK
+2023/03/28-15:07:31.729 3fa Delete type=0 #838
+2023/03/28-15:11:48.736 3fa Level-0 table #843: started
+2023/03/28-15:11:48.784 3fa Level-0 table #843: 2403242 bytes OK
+2023/03/28-15:11:48.802 3fa Delete type=0 #840
+2023/03/28-15:11:48.804 3fa Compacting 4@0 + 1@1 files
+2023/03/28-15:11:48.869 3fa Generated table #844@0: 1 keys, 600858 bytes
+2023/03/28-15:11:48.869 3fa Compacted 4@0 + 1@1 files => 600858 bytes
+2023/03/28-15:11:48.873 3fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-15:11:48.874 3fa Delete type=2 #835
+2023/03/28-15:11:48.874 3fa Delete type=2 #841
+2023/03/28-15:11:48.874 3fa Delete type=2 #837
+2023/03/28-15:11:48.874 3fa Delete type=2 #843
+2023/03/28-15:11:48.874 3fa Delete type=2 #839
+2023/03/28-15:39:41.554 3fa Level-0 table #846: started
+2023/03/28-15:39:41.593 3fa Level-0 table #846: 2403321 bytes OK
+2023/03/28-15:39:41.600 3fa Delete type=0 #842
+2023/03/28-15:41:44.730 3fa Level-0 table #848: started
+2023/03/28-15:41:44.809 3fa Level-0 table #848: 2403823 bytes OK
+2023/03/28-15:41:44.816 3fa Delete type=0 #845
+2023/03/28-15:44:22.203 3fa Level-0 table #850: started
+2023/03/28-15:44:22.251 3fa Level-0 table #850: 2405442 bytes OK
+2023/03/28-15:44:22.267 3fa Delete type=0 #847
+2023/03/28-15:45:07.665 3fa Level-0 table #852: started
+2023/03/28-15:45:07.701 3fa Level-0 table #852: 2405888 bytes OK
+2023/03/28-15:45:07.707 3fa Delete type=0 #849
+2023/03/28-15:45:07.710 3fa Compacting 4@0 + 1@1 files
+2023/03/28-15:45:07.799 3fa Generated table #853@0: 1 keys, 601859 bytes
+2023/03/28-15:45:07.799 3fa Compacted 4@0 + 1@1 files => 601859 bytes
+2023/03/28-15:45:07.803 3fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-15:45:07.803 3fa Delete type=2 #844
+2023/03/28-15:45:07.803 3fa Delete type=2 #848
+2023/03/28-15:45:07.803 3fa Delete type=2 #850
+2023/03/28-15:45:07.803 3fa Delete type=2 #852
+2023/03/28-15:45:07.803 3fa Delete type=2 #846
+2023/03/28-15:45:24.819 3fa Level-0 table #855: started
+2023/03/28-15:45:24.859 3fa Level-0 table #855: 2408212 bytes OK
+2023/03/28-15:45:24.865 3fa Delete type=0 #851
+2023/03/28-15:45:47.105 3fa Level-0 table #857: started
+2023/03/28-15:45:47.159 3fa Level-0 table #857: 2409205 bytes OK
+2023/03/28-15:45:47.167 3fa Delete type=0 #854
+2023/03/28-15:53:02.598 3fa Level-0 table #859: started
+2023/03/28-15:53:02.639 3fa Level-0 table #859: 2407620 bytes OK
+2023/03/28-15:53:02.643 3fa Delete type=0 #856
+2023/03/28-16:19:18.671 3fa Level-0 table #861: started
+2023/03/28-16:19:18.717 3fa Level-0 table #861: 2407070 bytes OK
+2023/03/28-16:19:18.722 3fa Delete type=0 #858
+2023/03/28-16:19:18.723 3fa Compacting 4@0 + 1@1 files
+2023/03/28-16:19:18.806 3fa Generated table #862@0: 1 keys, 601862 bytes
+2023/03/28-16:19:18.806 3fa Compacted 4@0 + 1@1 files => 601862 bytes
+2023/03/28-16:19:18.810 3fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-16:19:18.810 3fa Delete type=2 #857
+2023/03/28-16:19:18.810 3fa Delete type=2 #855
+2023/03/28-16:19:18.810 3fa Delete type=2 #859
+2023/03/28-16:19:18.810 3fa Delete type=2 #853
+2023/03/28-16:19:18.810 3fa Delete type=2 #861
+2023/03/28-16:20:17.364 3fa Level-0 table #864: started
+2023/03/28-16:20:17.413 3fa Level-0 table #864: 2407393 bytes OK
+2023/03/28-16:20:17.418 3fa Delete type=0 #860
+2023/03/28-16:27:22.397 3fa Level-0 table #866: started
+2023/03/28-16:27:22.464 3fa Level-0 table #866: 2407618 bytes OK
+2023/03/28-16:27:22.468 3fa Delete type=0 #863
+2023/03/28-16:27:39.037 3fa Level-0 table #868: started
+2023/03/28-16:27:39.104 3fa Level-0 table #868: 2408056 bytes OK
+2023/03/28-16:27:39.115 3fa Delete type=0 #865
+2023/03/28-16:28:12.377 3fa Level-0 table #870: started
+2023/03/28-16:28:12.461 3fa Level-0 table #870: 2408143 bytes OK
+2023/03/28-16:28:12.467 3fa Delete type=0 #867
+2023/03/28-16:28:12.468 3fa Compacting 4@0 + 1@1 files
+2023/03/28-16:28:12.606 3fa Generated table #871@0: 1 keys, 602111 bytes
+2023/03/28-16:28:12.606 3fa Compacted 4@0 + 1@1 files => 602111 bytes
+2023/03/28-16:28:12.611 3fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-16:28:12.612 3fa Delete type=2 #862
+2023/03/28-16:28:12.612 3fa Delete type=2 #866
+2023/03/28-16:28:12.612 3fa Delete type=2 #868
+2023/03/28-16:28:12.612 3fa Delete type=2 #864
+2023/03/28-16:28:12.612 3fa Delete type=2 #870
+2023/03/28-16:29:02.163 3fa Level-0 table #873: started
+2023/03/28-16:29:02.245 3fa Level-0 table #873: 2408437 bytes OK
+2023/03/28-16:29:02.250 3fa Delete type=0 #869
+2023/03/28-16:30:12.736 3f9 Level-0 table #875: started
+2023/03/28-16:30:12.837 3f9 Level-0 table #875: 2408915 bytes OK
+2023/03/28-16:30:12.849 3f9 Delete type=0 #872
+2023/03/28-16:30:23.334 3fa Level-0 table #877: started
+2023/03/28-16:30:23.426 3fa Level-0 table #877: 2409003 bytes OK
+2023/03/28-16:30:23.435 3fa Delete type=0 #874
+2023/03/28-16:32:05.697 3fa Level-0 table #879: started
+2023/03/28-16:32:05.734 3fa Level-0 table #879: 2409495 bytes OK
+2023/03/28-16:32:05.738 3fa Delete type=0 #876
+2023/03/28-16:32:05.740 3fa Compacting 4@0 + 1@1 files
+2023/03/28-16:32:05.859 3fa Generated table #880@0: 1 keys, 602470 bytes
+2023/03/28-16:32:05.859 3fa Compacted 4@0 + 1@1 files => 602470 bytes
+2023/03/28-16:32:05.863 3fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-16:32:05.863 3fa Delete type=2 #879
+2023/03/28-16:32:05.863 3fa Delete type=2 #871
+2023/03/28-16:32:05.863 3fa Delete type=2 #875
+2023/03/28-16:32:05.863 3fa Delete type=2 #877
+2023/03/28-16:32:05.863 3fa Delete type=2 #873
+2023/03/28-16:32:28.206 3fa Level-0 table #882: started
+2023/03/28-16:32:28.243 3fa Level-0 table #882: 2409946 bytes OK
+2023/03/28-16:32:28.248 3fa Delete type=0 #878
+2023/03/28-16:33:10.805 3fa Level-0 table #884: started
+2023/03/28-16:33:10.847 3fa Level-0 table #884: 2410097 bytes OK
+2023/03/28-16:33:10.852 3fa Delete type=0 #881
+2023/03/28-16:38:31.396 3fa Level-0 table #886: started
+2023/03/28-16:38:31.447 3fa Level-0 table #886: 2409723 bytes OK
+2023/03/28-16:38:31.453 3fa Delete type=0 #883
+2023/03/28-16:42:17.271 3fa Level-0 table #888: started
+2023/03/28-16:42:17.338 3fa Level-0 table #888: 2410194 bytes OK
+2023/03/28-16:42:17.346 3fa Delete type=0 #885
+2023/03/28-16:42:17.349 3fa Compacting 4@0 + 1@1 files
+2023/03/28-16:42:17.471 3fa Generated table #889@0: 1 keys, 602600 bytes
+2023/03/28-16:42:17.471 3fa Compacted 4@0 + 1@1 files => 602600 bytes
+2023/03/28-16:42:17.483 3fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-16:42:17.484 3fa Delete type=2 #888
+2023/03/28-16:42:17.484 3fa Delete type=2 #886
+2023/03/28-16:42:17.484 3fa Delete type=2 #882
+2023/03/28-16:42:17.484 3fa Delete type=2 #884
+2023/03/28-16:42:17.484 3fa Delete type=2 #880
+2023/03/28-16:44:53.074 3fa Level-0 table #891: started
+2023/03/28-16:44:53.154 3fa Level-0 table #891: 2410711 bytes OK
+2023/03/28-16:44:53.168 3fa Delete type=0 #887
+2023/03/28-16:45:02.690 3fa Level-0 table #893: started
+2023/03/28-16:45:02.767 3fa Level-0 table #893: 2410691 bytes OK
+2023/03/28-16:45:02.771 3fa Delete type=0 #890
+2023/03/28-16:46:58.022 3fa Level-0 table #895: started
+2023/03/28-16:46:58.068 3fa Level-0 table #895: 2410748 bytes OK
+2023/03/28-16:46:58.073 3fa Delete type=0 #892
+2023/03/28-16:52:49.444 3fa Level-0 table #897: started
+2023/03/28-16:52:49.490 3fa Level-0 table #897: 2410910 bytes OK
+2023/03/28-16:52:49.497 3fa Delete type=0 #894
+2023/03/28-16:52:49.497 3fa Compacting 4@0 + 1@1 files
+2023/03/28-16:52:49.560 3fa Generated table #898@0: 1 keys, 602765 bytes
+2023/03/28-16:52:49.560 3fa Compacted 4@0 + 1@1 files => 602765 bytes
+2023/03/28-16:52:49.564 3fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-16:52:49.564 3fa Delete type=2 #897
+2023/03/28-16:52:49.564 3fa Delete type=2 #891
+2023/03/28-16:52:49.564 3fa Delete type=2 #893
+2023/03/28-16:52:49.564 3fa Delete type=2 #889
+2023/03/28-16:52:49.564 3fa Delete type=2 #895
+2023/03/28-16:53:52.433 3fa Level-0 table #900: started
+2023/03/28-16:53:52.510 3fa Level-0 table #900: 2411376 bytes OK
+2023/03/28-16:53:52.518 3fa Delete type=0 #896
+2023/03/28-16:58:02.890 3f9 Level-0 table #902: started
+2023/03/28-16:58:02.926 3f9 Level-0 table #902: 2411820 bytes OK
+2023/03/28-16:58:02.931 3f9 Delete type=0 #899
+2023/03/28-16:59:11.456 3fa Level-0 table #904: started
+2023/03/28-16:59:11.516 3fa Level-0 table #904: 2411768 bytes OK
+2023/03/28-16:59:11.543 3fa Delete type=0 #901
+2023/03/28-17:03:00.199 3fa Level-0 table #906: started
+2023/03/28-17:03:00.253 3fa Level-0 table #906: 2412065 bytes OK
+2023/03/28-17:03:00.258 3fa Delete type=0 #903
+2023/03/28-17:03:00.259 3fa Compacting 4@0 + 1@1 files
+2023/03/28-17:03:00.323 3fa Generated table #907@0: 1 keys, 603076 bytes
+2023/03/28-17:03:00.323 3fa Compacted 4@0 + 1@1 files => 603076 bytes
+2023/03/28-17:03:00.334 3fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-17:03:00.335 3fa Delete type=2 #902
+2023/03/28-17:03:00.335 3fa Delete type=2 #898
+2023/03/28-17:03:00.335 3fa Delete type=2 #900
+2023/03/28-17:03:00.335 3fa Delete type=2 #904
+2023/03/28-17:03:00.335 3fa Delete type=2 #906
+2023/03/28-17:05:55.158 3fa Level-0 table #909: started
+2023/03/28-17:05:55.222 3fa Level-0 table #909: 2412309 bytes OK
+2023/03/28-17:05:55.229 3fa Delete type=0 #905
+2023/03/28-17:11:12.215 3fa Level-0 table #911: started
+2023/03/28-17:11:12.252 3fa Level-0 table #911: 2412525 bytes OK
+2023/03/28-17:11:12.265 3fa Delete type=0 #908
+2023/03/28-17:11:54.708 3fa Level-0 table #913: started
+2023/03/28-17:11:54.767 3fa Level-0 table #913: 2412496 bytes OK
+2023/03/28-17:11:54.775 3fa Delete type=0 #910
+2023/03/28-17:12:07.847 3fa Level-0 table #915: started
+2023/03/28-17:12:07.923 3fa Level-0 table #915: 2412482 bytes OK
+2023/03/28-17:12:07.929 3fa Delete type=0 #912
+2023/03/28-17:12:07.931 3f9 Compacting 4@0 + 1@1 files
+2023/03/28-17:12:08.039 3f9 Generated table #916@0: 1 keys, 603172 bytes
+2023/03/28-17:12:08.039 3f9 Compacted 4@0 + 1@1 files => 603172 bytes
+2023/03/28-17:12:08.042 3f9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-17:12:08.043 3f9 Delete type=2 #911
+2023/03/28-17:12:08.043 3f9 Delete type=2 #913
+2023/03/28-17:12:08.043 3f9 Delete type=2 #907
+2023/03/28-17:12:08.043 3f9 Delete type=2 #915
+2023/03/28-17:12:08.043 3f9 Delete type=2 #909
+2023/03/28-17:14:48.195 3fa Level-0 table #918: started
+2023/03/28-17:14:48.245 3fa Level-0 table #918: 2412511 bytes OK
+2023/03/28-17:14:48.249 3fa Delete type=0 #914
+2023/03/28-17:17:40.568 3fa Level-0 table #920: started
+2023/03/28-17:17:40.616 3fa Level-0 table #920: 2412949 bytes OK
+2023/03/28-17:17:40.621 3fa Delete type=0 #917
+2023/03/28-17:17:56.559 3fa Level-0 table #922: started
+2023/03/28-17:17:56.625 3fa Level-0 table #922: 2413119 bytes OK
+2023/03/28-17:17:56.630 3fa Delete type=0 #919
+2023/03/28-17:19:47.363 3fa Level-0 table #924: started
+2023/03/28-17:19:47.397 3fa Level-0 table #924: 2413416 bytes OK
+2023/03/28-17:19:47.401 3fa Delete type=0 #921
+2023/03/28-17:19:47.402 3fa Compacting 4@0 + 1@1 files
+2023/03/28-17:19:47.451 3fa Generated table #925@0: 1 keys, 603441 bytes
+2023/03/28-17:19:47.451 3fa Compacted 4@0 + 1@1 files => 603441 bytes
+2023/03/28-17:19:47.455 3fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-17:19:47.456 3fa Delete type=2 #918
+2023/03/28-17:19:47.456 3fa Delete type=2 #916
+2023/03/28-17:19:47.456 3fa Delete type=2 #922
+2023/03/28-17:19:47.456 3fa Delete type=2 #920
+2023/03/28-17:19:47.456 3fa Delete type=2 #924
+2023/03/28-17:21:09.942 3f9 Level-0 table #927: started
+2023/03/28-17:21:10.002 3f9 Level-0 table #927: 2413657 bytes OK
+2023/03/28-17:21:10.007 3f9 Delete type=0 #923
+2023/03/28-17:22:02.023 3fa Level-0 table #929: started
+2023/03/28-17:22:02.082 3fa Level-0 table #929: 2414235 bytes OK
+2023/03/28-17:22:02.088 3fa Delete type=0 #926
+2023/03/28-17:23:40.851 3fa Level-0 table #931: started
+2023/03/28-17:23:40.892 3fa Level-0 table #931: 2414621 bytes OK
+2023/03/28-17:23:40.896 3fa Delete type=0 #928
+2023/03/28-17:24:25.681 3fa Level-0 table #933: started
+2023/03/28-17:24:25.767 3fa Level-0 table #933: 2416138 bytes OK
+2023/03/28-17:24:25.780 3fa Delete type=0 #930
+2023/03/28-17:24:25.783 3fa Compacting 4@0 + 1@1 files
+2023/03/28-17:24:25.972 3fa Generated table #934@0: 1 keys, 604311 bytes
+2023/03/28-17:24:25.972 3fa Compacted 4@0 + 1@1 files => 604311 bytes
+2023/03/28-17:24:25.975 3fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-17:24:25.976 3fa Delete type=2 #929
+2023/03/28-17:24:25.976 3fa Delete type=2 #927
+2023/03/28-17:24:25.976 3fa Delete type=2 #925
+2023/03/28-17:24:25.976 3fa Delete type=2 #933
+2023/03/28-17:24:25.976 3fa Delete type=2 #931
+2023/03/28-17:31:23.847 3fa Level-0 table #936: started
+2023/03/28-17:31:23.900 3fa Level-0 table #936: 2414479 bytes OK
+2023/03/28-17:31:23.905 3fa Delete type=0 #932
+2023/03/28-17:39:57.534 3fa Level-0 table #938: started
+2023/03/28-17:39:57.583 3fa Level-0 table #938: 2414532 bytes OK
+2023/03/28-17:39:57.586 3fa Delete type=0 #935

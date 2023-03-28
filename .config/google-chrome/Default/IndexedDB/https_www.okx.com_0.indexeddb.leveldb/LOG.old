@@ -1,0 +1,7 @@
+2023/03/25-23:21:05.737 119e55 Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_www.okx.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/25-23:21:05.737 119e55 Recovering log #3
+2023/03/25-23:21:05.754 119e55 Reusing old log /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_www.okx.com_0.indexeddb.leveldb/000003.log 
+2023/03/25-23:21:30.746 119e56 Level-0 table #5: started
+2023/03/25-23:21:30.751 119e56 Level-0 table #5: 90685 bytes OK
+2023/03/25-23:21:30.754 119e56 Delete type=0 #3
+2023/03/25-23:21:30.755 119e56 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

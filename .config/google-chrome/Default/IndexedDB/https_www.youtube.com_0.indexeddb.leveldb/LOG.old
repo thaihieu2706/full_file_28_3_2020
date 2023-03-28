@@ -1,0 +1,24 @@
+2023/03/28-20:51:47.192 3bf Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/28-20:51:47.193 3bf Recovering log #254
+2023/03/28-20:51:47.226 3bf Reusing old log /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000254.log 
+2023/03/28-21:30:47.041 3c0 Level-0 table #259: started
+2023/03/28-21:30:47.078 3c0 Level-0 table #259: 1105611 bytes OK
+2023/03/28-21:30:47.088 3c0 Delete type=0 #254
+2023/03/28-22:19:09.311 3c0 Compacting 1@1 + 1@2 files
+2023/03/28-22:19:09.343 3c0 Generated table #260@1: 493 keys, 35417 bytes
+2023/03/28-22:19:09.343 3c0 Compacted 1@1 + 1@2 files => 35417 bytes
+2023/03/28-22:19:09.346 3c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/28-22:19:09.347 3c0 Delete type=2 #256
+2023/03/28-22:19:09.347 3c0 Delete type=2 #259
+2023/03/28-22:36:11.322 3c0 Level-0 table #262: started
+2023/03/28-22:36:11.330 3c0 Level-0 table #262: 61805 bytes OK
+2023/03/28-22:36:11.334 3c0 Delete type=0 #258
+2023/03/28-22:36:11.335 3c0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/03/28-22:36:11.335 3c0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x11\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x000\xc5S\x8drxB\x00\x03\x00\x00\x00\x00\x00\xc0\x86@' @ 447779 : 1
+2023/03/28-22:36:11.335 3c0 Compacting 1@1 + 1@2 files
+2023/03/28-22:36:11.343 3c0 Generated table #263@1: 525 keys, 36647 bytes
+2023/03/28-22:36:11.343 3c0 Compacted 1@1 + 1@2 files => 36647 bytes
+2023/03/28-22:36:11.345 3c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/28-22:36:11.346 3c0 Delete type=2 #260
+2023/03/28-22:36:11.346 3c0 Delete type=2 #262
+2023/03/28-22:36:11.347 3c0 Manual compaction at level-1 from '\x00\x11\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x000\xc5S\x8drxB\x00\x03\x00\x00\x00\x00\x00\xc0\x86@' @ 447779 : 1 .. (end); will stop at (end)

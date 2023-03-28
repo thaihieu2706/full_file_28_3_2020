@@ -1,0 +1,18 @@
+2023/03/26-12:46:45.413 fe3 Creating DB /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_exchange.coin98.com_0.indexeddb.leveldb since it was missing.
+2023/03/26-12:46:45.426 fe3 Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_exchange.coin98.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/26-12:46:45.458 fe4 Level-0 table #5: started
+2023/03/26-12:46:45.462 fe4 Level-0 table #5: 712 bytes OK
+2023/03/26-12:46:45.465 fe4 Delete type=0 #3
+2023/03/26-12:46:45.465 fe4 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/26-12:47:25.815 fe4 Level-0 table #7: started
+2023/03/26-12:47:25.818 fe4 Level-0 table #7: 2976 bytes OK
+2023/03/26-12:47:25.823 fe4 Delete type=0 #4
+2023/03/26-12:47:25.825 fe4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/03/26-12:47:25.827 fe4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x002\x004\x000\x009\x001\x005\x004\x007\x005\x007\x008\x006\x00:\x00w\x00e\x00b\x00:\x00d\x00f\x00f\x002\x003\x00f\x005\x000\x007\x003\x002\x009\x001\x00e\x000\x000\x006\x00c\x002\x005\x00b\x003' @ 120 : 1
+2023/03/26-12:47:25.827 fe4 Compacting 1@1 + 1@2 files
+2023/03/26-12:47:25.831 fe4 Generated table #8@1: 35 keys, 1586 bytes
+2023/03/26-12:47:25.831 fe4 Compacted 1@1 + 1@2 files => 1586 bytes
+2023/03/26-12:47:25.841 fe4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/26-12:47:25.842 fe4 Delete type=2 #5
+2023/03/26-12:47:25.842 fe4 Delete type=2 #7
+2023/03/26-12:47:25.842 fec Manual compaction at level-1 from '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x002\x004\x000\x009\x001\x005\x004\x007\x005\x007\x008\x006\x00:\x00w\x00e\x00b\x00:\x00d\x00f\x00f\x002\x003\x00f\x005\x000\x007\x003\x002\x009\x001\x00e\x000\x000\x006\x00c\x002\x005\x00b\x003' @ 120 : 1 .. (end); will stop at (end)

@@ -1,0 +1,32 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "extension/cosmosServices.js", "extension/commonServices.js", "extension/reduxServices.js", "extension/web3Services.js", "extension/backgroundScript.js" ]
+   },
+   "browser_action": {
+      "default_icon": "logo512.png",
+      "default_popup": "popup.html#popup"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "extension/contentScript.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "js/trezor-content-script.js" ],
+      "matches": [ "*://connect.trezor.io/8/popup.html" ]
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' 'unsafe-inline' https://www.googletagmanager.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "512": "logo512.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm4cVInDAoPm8wQF5d4XLDnQh48mtidVxaDxfDISroeANGAnIVQzW6BwOBUILTVmTUS2P73GeT8KSP3ow8X8f9QwuJ7uzd+sxijWQl+nnZ+tSUeLvtHflLrYBrhUxWLlOiJ05RoM0eyMRcT3l5t6IwjJ90yD59VVIDSHblL1GGyZce3aY/CqP8yOKJLiGJyLBKqkQvnv60t5BvbJ0zCgkYW+Ibc2n+HIEr3E+Ds7NBX1w48izyayynzn8EFXljR5u0fFMr6s2WbZ97038s80F6d3lL+koIOU8d4WCqj4qWh46Az/wwFOxmmKehv8NOBLON7DhAt2uDxeGgR8eCWADiwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "storage", "unlimitedStorage", "tabs", "clipboardRead", "clipboardWrite", "notifications", "browser", "*://connect.trezor.io/8/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "7.1.7",
+   "web_accessible_resources": [ "*", "**/*", "./popup.html", "popup.html" ]
+}

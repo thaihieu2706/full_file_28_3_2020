@@ -1,0 +1,10 @@
+cach import file : 
+     b1: dat package vao file nguon
+        ex : pakage test1; vao file 1.java
+
+     b2: bien dich file nguon 
+         javac 1.java
+         javac -d . 1.java
+
+     b3: import vao file dich
+        ex : import test1.1; vao file 2.java

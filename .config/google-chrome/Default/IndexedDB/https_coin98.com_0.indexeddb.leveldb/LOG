@@ -1,0 +1,7 @@
+2023/03/26-12:52:11.568 fe3 Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_coin98.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/26-12:52:11.568 fe3 Recovering log #3
+2023/03/26-12:52:11.569 fe3 Reusing old log /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_coin98.com_0.indexeddb.leveldb/000003.log 
+2023/03/26-12:52:12.984 fec Level-0 table #5: started
+2023/03/26-12:52:12.988 fec Level-0 table #5: 2364 bytes OK
+2023/03/26-12:52:12.991 fec Delete type=0 #3
+2023/03/26-12:52:12.992 fe3 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

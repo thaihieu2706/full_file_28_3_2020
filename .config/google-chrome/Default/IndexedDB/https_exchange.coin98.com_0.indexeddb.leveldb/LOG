@@ -1,0 +1,17 @@
+2023/03/26-12:47:28.980 fe3 Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_exchange.coin98.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/26-12:47:28.980 fe3 Recovering log #6
+2023/03/26-12:47:28.980 fe3 Reusing old log /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_exchange.coin98.com_0.indexeddb.leveldb/000006.log 
+2023/03/26-12:47:29.868 fec Level-0 table #11: started
+2023/03/26-12:47:29.870 fec Level-0 table #11: 581 bytes OK
+2023/03/26-12:47:29.873 fec Delete type=0 #6
+2023/03/26-12:47:29.873 fe3 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/26-12:51:55.133 fe4 Level-0 table #13: started
+2023/03/26-12:51:55.135 fe4 Level-0 table #13: 1760 bytes OK
+2023/03/26-12:51:55.138 fe4 Delete type=0 #10
+2023/03/26-12:51:55.139 fe4 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 198 : 1
+2023/03/26-12:51:55.139 fe4 Compacting 1@0 + 1@1 files
+2023/03/26-12:51:55.143 fe4 Generated table #14@0: 22 keys, 1410 bytes
+2023/03/26-12:51:55.143 fe4 Compacted 1@0 + 1@1 files => 1410 bytes
+2023/03/26-12:51:55.145 fe4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/26-12:51:55.145 fe4 Delete type=2 #13
+2023/03/26-12:51:55.146 fec Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 198 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,6 @@
+2023/03/22-16:46:00.857 386 Creating DB /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_coda.io_0.indexeddb.leveldb since it was missing.
+2023/03/22-16:46:00.869 386 Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_coda.io_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/22-16:46:02.933 387 Level-0 table #5: started
+2023/03/22-16:46:02.936 387 Level-0 table #5: 2064 bytes OK
+2023/03/22-16:46:02.940 387 Delete type=0 #3
+2023/03/22-16:46:02.940 387 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

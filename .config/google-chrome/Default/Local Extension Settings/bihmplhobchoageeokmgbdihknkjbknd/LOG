@@ -1,0 +1,12 @@
+2023/03/28-20:50:08.654 3c0 Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/Local Extension Settings/bihmplhobchoageeokmgbdihknkjbknd/MANIFEST-000001
+2023/03/28-20:50:08.655 3c0 Recovering log #99
+2023/03/28-20:50:08.717 3c0 Reusing old log /home/thaihieu/.config/google-chrome/Default/Local Extension Settings/bihmplhobchoageeokmgbdihknkjbknd/000099.log 
+2023/03/28-21:17:44.049 3bf Level-0 table #103: started
+2023/03/28-21:17:44.089 3bf Level-0 table #103: 1281631 bytes OK
+2023/03/28-21:17:44.094 3bf Delete type=0 #99
+2023/03/28-21:34:40.837 3bf Compacting 1@0 + 1@1 files
+2023/03/28-21:34:40.921 3bf Generated table #104@0: 15 keys, 1757976 bytes
+2023/03/28-21:34:40.921 3bf Compacted 1@0 + 1@1 files => 1757976 bytes
+2023/03/28-21:34:40.923 3bf compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/03/28-21:34:40.923 3bf Delete type=2 #100
+2023/03/28-21:34:40.923 3bf Delete type=2 #103

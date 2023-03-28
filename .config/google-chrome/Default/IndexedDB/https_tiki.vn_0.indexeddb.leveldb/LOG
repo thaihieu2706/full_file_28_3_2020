@@ -1,0 +1,13 @@
+2023/03/22-16:15:57.703 386 Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_tiki.vn_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/22-16:15:57.703 386 Recovering log #6
+2023/03/22-16:15:57.704 386 Reusing old log /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_tiki.vn_0.indexeddb.leveldb/000006.log 
+2023/03/22-16:16:00.805 390 Level-0 table #11: started
+2023/03/22-16:16:00.810 390 Level-0 table #11: 35803 bytes OK
+2023/03/22-16:16:00.813 390 Delete type=0 #6
+2023/03/22-16:16:00.813 386 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/22-16:16:00.975 387 Compacting 1@1 + 1@2 files
+2023/03/22-16:16:00.981 387 Generated table #12@1: 590 keys, 72633 bytes
+2023/03/22-16:16:00.981 387 Compacted 1@1 + 1@2 files => 72633 bytes
+2023/03/22-16:16:00.985 387 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/22-16:16:00.985 387 Delete type=2 #11
+2023/03/22-16:16:00.985 387 Delete type=2 #8

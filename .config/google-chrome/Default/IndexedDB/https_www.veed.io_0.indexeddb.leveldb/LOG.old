@@ -1,0 +1,13 @@
+2023/03/22-20:19:08.823 4f0 Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_www.veed.io_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/22-20:19:08.823 4f0 Recovering log #34
+2023/03/22-20:19:08.824 4f0 Reusing old log /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_www.veed.io_0.indexeddb.leveldb/000034.log 
+2023/03/22-20:19:20.198 4f9 Level-0 table #39: started
+2023/03/22-20:19:20.210 4f9 Level-0 table #39: 10137 bytes OK
+2023/03/22-20:19:20.216 4f9 Delete type=0 #34
+2023/03/22-20:19:20.217 4f0 Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/22-20:20:16.008 4f0 Compacting 1@1 + 1@2 files
+2023/03/22-20:20:16.013 4f0 Generated table #40@1: 185 keys, 35029 bytes
+2023/03/22-20:20:16.013 4f0 Compacted 1@1 + 1@2 files => 35029 bytes
+2023/03/22-20:20:16.017 4f0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/22-20:20:16.017 4f0 Delete type=2 #39
+2023/03/22-20:20:16.017 4f0 Delete type=2 #36

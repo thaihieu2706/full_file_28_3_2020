@@ -1,0 +1,22 @@
+2023/03/27-19:42:23.928 38f Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/chrome-extension_aeachknmefphepccionboohckonoeemg_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/27-19:42:23.928 38f Recovering log #63
+2023/03/27-19:42:23.929 38f Reusing old log /home/thaihieu/.config/google-chrome/Default/IndexedDB/chrome-extension_aeachknmefphepccionboohckonoeemg_0.indexeddb.leveldb/000063.log 
+2023/03/27-20:34:56.094 390 Level-0 table #67: started
+2023/03/27-20:34:56.099 390 Level-0 table #67: 45905 bytes OK
+2023/03/27-20:34:56.103 390 Delete type=0 #63
+2023/03/27-20:34:56.103 38f Manual compaction at level-0 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x01\x01\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x001\x004\x000\x005\x000\x000\x003\x008\x002\x002\x007\x009\x00:\x00w\x00e\x00b\x00:\x000\x006\x009\x00c\x000\x00d\x000\x004\x009\x009\x00a\x005\x005\x008\x003\x003\x004\x009\x007\x007\x006\x002' @ 1947 : 1
+2023/03/27-20:34:56.103 38f Compacting 3@0 + 1@1 files
+2023/03/27-20:34:56.544 38f Generated table #68@0: 613 keys, 2567473 bytes
+2023/03/27-20:34:56.547 38f Compacted 3@0 + 1@1 files => 2567473 bytes
+2023/03/27-20:34:56.551 38f compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/27-20:34:56.554 38f Delete type=2 #67
+2023/03/27-20:34:56.555 38f Manual compaction at level-0 from '\x00\x04\x01\x01\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x001\x004\x000\x005\x000\x000\x003\x008\x002\x002\x007\x009\x00:\x00w\x00e\x00b\x00:\x000\x006\x009\x00c\x000\x00d\x000\x004\x009\x009\x00a\x005\x005\x008\x003\x003\x004\x009\x007\x007\x006\x002' @ 1947 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/27-20:35:00.432 390 Level-0 table #70: started
+2023/03/27-20:35:00.682 390 Level-0 table #70: 3860456 bytes OK
+2023/03/27-20:35:00.689 390 Delete type=2 #64
+2023/03/27-20:35:00.690 390 Delete type=2 #62
+2023/03/27-20:35:00.690 390 Delete type=2 #60
+2023/03/27-20:35:00.690 390 Delete type=0 #66
+2023/03/27-20:35:09.410 390 Level-0 table #72: started
+2023/03/27-20:35:09.615 390 Level-0 table #72: 3449553 bytes OK
+2023/03/27-20:35:09.627 390 Delete type=0 #69

@@ -1,0 +1,15 @@
+2023/03/15-13:13:39.766 3b9 Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_vn.trueid.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/15-13:13:39.766 3b9 Recovering log #4
+2023/03/15-13:13:39.766 3b9 Reusing old log /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_vn.trueid.net_0.indexeddb.leveldb/000004.log 
+2023/03/15-13:13:42.918 2cfb Level-0 table #8: started
+2023/03/15-13:13:42.921 2cfb Level-0 table #8: 1119 bytes OK
+2023/03/15-13:13:42.924 2cfb Delete type=0 #4
+2023/03/15-13:13:42.924 2cfb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/03/15-13:13:42.924 2cfb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x00\x00\x05' @ 188 : 1
+2023/03/15-13:13:42.924 2cfb Compacting 1@1 + 1@2 files
+2023/03/15-13:13:42.929 2cfb Generated table #9@1: 56 keys, 1134 bytes
+2023/03/15-13:13:42.929 2cfb Compacted 1@1 + 1@2 files => 1134 bytes
+2023/03/15-13:13:42.934 2cfb compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/15-13:13:42.935 2cfb Delete type=2 #5
+2023/03/15-13:13:42.935 2cfb Delete type=2 #8
+2023/03/15-13:13:42.935 2cfb Manual compaction at level-1 from '\x00\x05\x00\x00\x05' @ 188 : 1 .. (end); will stop at (end)

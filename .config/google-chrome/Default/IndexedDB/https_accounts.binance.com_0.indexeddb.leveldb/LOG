@@ -1,0 +1,7 @@
+2023/03/28-15:42:43.360 3f9 Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_accounts.binance.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/28-15:42:43.362 3f9 Recovering log #3
+2023/03/28-15:42:43.367 3f9 Reusing old log /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_accounts.binance.com_0.indexeddb.leveldb/000003.log 
+2023/03/28-15:43:03.422 3fa Level-0 table #5: started
+2023/03/28-15:43:03.436 3fa Level-0 table #5: 134919 bytes OK
+2023/03/28-15:43:03.445 3fa Delete type=0 #3
+2023/03/28-15:43:03.447 3fa Manual compaction at level-0 from (begin) .. (end); will stop at (end)

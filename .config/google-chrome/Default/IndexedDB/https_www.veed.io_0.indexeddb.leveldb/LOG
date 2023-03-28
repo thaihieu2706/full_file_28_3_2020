@@ -1,0 +1,7 @@
+2023/03/22-20:49:02.860 3b6 Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_www.veed.io_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/22-20:49:02.861 3b6 Recovering log #38
+2023/03/22-20:49:02.861 3b6 Reusing old log /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_www.veed.io_0.indexeddb.leveldb/000038.log 
+2023/03/22-20:49:15.786 3d0 Level-0 table #43: started
+2023/03/22-20:49:15.790 3d0 Level-0 table #43: 3319 bytes OK
+2023/03/22-20:49:15.793 3d0 Delete type=0 #38
+2023/03/22-20:49:15.794 3b6 Manual compaction at level-0 from '\x00\x10\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at (end)

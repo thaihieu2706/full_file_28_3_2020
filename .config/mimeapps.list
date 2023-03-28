@@ -1,0 +1,14 @@
+[Default Applications]
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+x-scheme-handler/tg=userapp-Telegram Desktop-H5WA21.desktop
+
+[Added Associations]
+application/x-ms-dos-executable=winetricks.desktop;
+application/x-desktop=wine-Programs-MetaTrader 5-MetaTrader 5.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-H5WA21.desktop;
+text/x-csrc=winetricks.desktop;mpv.desktop;
+application/octet-stream=lvim.desktop;

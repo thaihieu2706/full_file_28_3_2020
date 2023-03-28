@@ -1,0 +1,6 @@
+2023/03/21-11:16:18.958 3d2 Creating DB /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_trade.metatrader5.com_0.indexeddb.leveldb since it was missing.
+2023/03/21-11:16:18.970 3d2 Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_trade.metatrader5.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/21-11:21:36.293 3d2 Level-0 table #5: started
+2023/03/21-11:21:36.308 3d2 Level-0 table #5: 102588 bytes OK
+2023/03/21-11:21:36.315 3d2 Delete type=0 #3
+2023/03/21-11:21:36.316 3d2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

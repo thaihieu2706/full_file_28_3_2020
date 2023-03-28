@@ -1,0 +1,6 @@
+2023/03/20-21:19:30.374 7bd Creating DB /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_nhasachmienphi.com_0.indexeddb.leveldb since it was missing.
+2023/03/20-21:19:30.384 7bd Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_nhasachmienphi.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/20-21:25:16.914 7bd Level-0 table #5: started
+2023/03/20-21:25:16.917 7bd Level-0 table #5: 16234 bytes OK
+2023/03/20-21:25:16.923 7bd Delete type=0 #3
+2023/03/20-21:25:16.924 7c6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

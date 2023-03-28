@@ -1,0 +1,6 @@
+2023/03/28-22:39:20.240 3bf Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_chat.zalo.me_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/28-22:39:20.240 3bf Recovering log #291
+2023/03/28-22:39:20.270 3bf Reusing old log /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_chat.zalo.me_0.indexeddb.leveldb/000291.log 
+2023/03/28-23:08:53.135 3bf Level-0 table #302: started
+2023/03/28-23:08:53.227 3bf Level-0 table #302: 1280532 bytes OK
+2023/03/28-23:08:53.237 3bf Delete type=0 #291
